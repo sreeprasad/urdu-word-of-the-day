@@ -21,7 +21,7 @@
 	},
 	"vars": {
 		"SITE_URL": "https://urdu-word-of-the-day.sreeprasad-sp.workers.dev",
-		"MAIL_FROM": "Urdu word of the day <word@REPLACE_WITH_YOUR_SENDING_DOMAIN>"
+		"MAIL_FROM": "Urdu word of the day <word@mail.sreeprasad.xyz>"
 	}
 	// RESEND_API_KEY is a secret: set it with `npx wrangler secret put RESEND_API_KEY`
 }
