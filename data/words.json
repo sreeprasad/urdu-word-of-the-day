@@ -1,0 +1,2336 @@
+[
+  {
+    "id": 1,
+    "roman": "iztiraab",
+    "english": "anxiety, restlessness",
+    "category": "advanced"
+  },
+  {
+    "id": 2,
+    "roman": "maslehat",
+    "english": "expediency, prudent consideration",
+    "category": "advanced"
+  },
+  {
+    "id": 3,
+    "roman": "tazabzub",
+    "english": "indecision, wavering",
+    "category": "advanced"
+  },
+  {
+    "id": 4,
+    "roman": "istehkaam",
+    "english": "stability",
+    "category": "advanced"
+  },
+  {
+    "id": 5,
+    "roman": "inhitaat",
+    "english": "decline, decadence",
+    "category": "advanced"
+  },
+  {
+    "id": 6,
+    "roman": "ikhtilaaf",
+    "english": "disagreement",
+    "category": "advanced"
+  },
+  {
+    "id": 7,
+    "roman": "ittehaad",
+    "english": "unity",
+    "category": "advanced"
+  },
+  {
+    "id": 8,
+    "roman": "intishaar",
+    "english": "disarray, chaos",
+    "category": "advanced"
+  },
+  {
+    "id": 9,
+    "roman": "ehtijaaj",
+    "english": "protest",
+    "category": "advanced"
+  },
+  {
+    "id": 10,
+    "roman": "muzaakaraat",
+    "english": "negotiations",
+    "category": "advanced"
+  },
+  {
+    "id": 11,
+    "roman": "muaahida",
+    "english": "treaty, agreement",
+    "category": "advanced"
+  },
+  {
+    "id": 12,
+    "roman": "qaanoon saazi",
+    "english": "legislation",
+    "category": "advanced"
+  },
+  {
+    "id": 13,
+    "roman": "adliya",
+    "english": "judiciary",
+    "category": "advanced"
+  },
+  {
+    "id": 14,
+    "roman": "muqannina",
+    "english": "legislature",
+    "category": "advanced"
+  },
+  {
+    "id": 15,
+    "roman": "intezaamiya",
+    "english": "administration, executive",
+    "category": "advanced"
+  },
+  {
+    "id": 16,
+    "roman": "aaeen",
+    "english": "constitution",
+    "category": "advanced"
+  },
+  {
+    "id": 17,
+    "roman": "hikmat-e-amli",
+    "english": "strategy",
+    "category": "advanced"
+  },
+  {
+    "id": 18,
+    "roman": "tarjeeh",
+    "english": "priority, preference",
+    "category": "advanced"
+  },
+  {
+    "id": 19,
+    "roman": "tajziya",
+    "english": "analysis",
+    "category": "advanced"
+  },
+  {
+    "id": 20,
+    "roman": "tahqeeq",
+    "english": "research",
+    "category": "advanced"
+  },
+  {
+    "id": 21,
+    "roman": "tanqeed",
+    "english": "criticism",
+    "category": "advanced"
+  },
+  {
+    "id": 22,
+    "roman": "tabsira",
+    "english": "commentary, review",
+    "category": "advanced"
+  },
+  {
+    "id": 23,
+    "roman": "iqtibaas",
+    "english": "excerpt, quotation",
+    "category": "advanced"
+  },
+  {
+    "id": 24,
+    "roman": "mafrooza",
+    "english": "hypothesis, assumption",
+    "category": "advanced"
+  },
+  {
+    "id": 25,
+    "roman": "nazariya",
+    "english": "ideology, theory",
+    "category": "advanced"
+  },
+  {
+    "id": 26,
+    "roman": "tasawwur",
+    "english": "concept, imagination",
+    "category": "advanced"
+  },
+  {
+    "id": 27,
+    "roman": "muzmiraat",
+    "english": "implications",
+    "category": "advanced"
+  },
+  {
+    "id": 28,
+    "roman": "pecheedgi",
+    "english": "complexity",
+    "category": "advanced"
+  },
+  {
+    "id": 29,
+    "roman": "ibhaam",
+    "english": "ambiguity",
+    "category": "advanced"
+  },
+  {
+    "id": 30,
+    "roman": "wazaahat",
+    "english": "clarification",
+    "category": "advanced"
+  },
+  {
+    "id": 31,
+    "roman": "tazaad",
+    "english": "contradiction",
+    "category": "advanced"
+  },
+  {
+    "id": 32,
+    "roman": "mumaasilat",
+    "english": "similarity, resemblance",
+    "category": "advanced"
+  },
+  {
+    "id": 33,
+    "roman": "imtiyaaz",
+    "english": "distinction; discrimination",
+    "category": "advanced"
+  },
+  {
+    "id": 34,
+    "roman": "istisna",
+    "english": "exception",
+    "category": "advanced"
+  },
+  {
+    "id": 35,
+    "roman": "batadreej",
+    "english": "gradually",
+    "category": "advanced"
+  },
+  {
+    "id": 36,
+    "roman": "bil-aakhir",
+    "english": "eventually, at last",
+    "category": "advanced"
+  },
+  {
+    "id": 37,
+    "roman": "bazaahir",
+    "english": "apparently",
+    "category": "advanced"
+  },
+  {
+    "id": 38,
+    "roman": "beharhaal",
+    "english": "anyway, in any case",
+    "category": "advanced"
+  },
+  {
+    "id": 39,
+    "roman": "badastoor",
+    "english": "as before, still",
+    "category": "advanced"
+  },
+  {
+    "id": 40,
+    "roman": "darhaqeeqat",
+    "english": "in reality, actually",
+    "category": "advanced"
+  },
+  {
+    "id": 41,
+    "roman": "musalsal",
+    "english": "continuous, continuously",
+    "category": "advanced"
+  },
+  {
+    "id": 42,
+    "roman": "mustaqil",
+    "english": "permanent",
+    "category": "advanced"
+  },
+  {
+    "id": 43,
+    "roman": "aarzi",
+    "english": "temporary",
+    "category": "advanced"
+  },
+  {
+    "id": 44,
+    "roman": "naaguzeer",
+    "english": "inevitable, indispensable",
+    "category": "advanced"
+  },
+  {
+    "id": 45,
+    "roman": "laazmi",
+    "english": "compulsory",
+    "category": "advanced"
+  },
+  {
+    "id": 46,
+    "roman": "ghair mutawaqqa",
+    "english": "unexpected",
+    "category": "advanced"
+  },
+  {
+    "id": 47,
+    "roman": "mubham",
+    "english": "vague",
+    "category": "advanced"
+  },
+  {
+    "id": 48,
+    "roman": "waazeh",
+    "english": "clear, evident",
+    "category": "advanced"
+  },
+  {
+    "id": 49,
+    "roman": "jaame",
+    "english": "comprehensive",
+    "category": "advanced"
+  },
+  {
+    "id": 50,
+    "roman": "mauzoon",
+    "english": "suitable, apt",
+    "category": "advanced"
+  },
+  {
+    "id": 51,
+    "roman": "muassir",
+    "english": "effective",
+    "category": "advanced"
+  },
+  {
+    "id": 52,
+    "roman": "naaqaabil-e-yaqeen",
+    "english": "unbelievable",
+    "category": "advanced"
+  },
+  {
+    "id": 53,
+    "roman": "bemisaal",
+    "english": "unparalleled",
+    "category": "advanced"
+  },
+  {
+    "id": 54,
+    "roman": "gurez",
+    "english": "avoidance, evasion",
+    "category": "advanced"
+  },
+  {
+    "id": 55,
+    "roman": "ijtinaab",
+    "english": "abstention, refraining",
+    "category": "advanced"
+  },
+  {
+    "id": 56,
+    "roman": "tashweesh",
+    "english": "concern, worry",
+    "category": "advanced"
+  },
+  {
+    "id": 57,
+    "roman": "itmeenaan",
+    "english": "reassurance, contentment",
+    "category": "advanced"
+  },
+  {
+    "id": 58,
+    "roman": "taassub",
+    "english": "prejudice, bias",
+    "category": "advanced"
+  },
+  {
+    "id": 59,
+    "roman": "rawaadaari",
+    "english": "tolerance",
+    "category": "advanced"
+  },
+  {
+    "id": 60,
+    "roman": "inkisaari",
+    "english": "humility",
+    "category": "advanced"
+  },
+  {
+    "id": 61,
+    "roman": "takabbur",
+    "english": "arrogance",
+    "category": "advanced"
+  },
+  {
+    "id": 62,
+    "roman": "khuddaari",
+    "english": "self-respect",
+    "category": "advanced"
+  },
+  {
+    "id": 63,
+    "roman": "munaafiqat",
+    "english": "hypocrisy",
+    "category": "advanced"
+  },
+  {
+    "id": 64,
+    "roman": "riyaakaari",
+    "english": "pretense, sanctimony",
+    "category": "advanced"
+  },
+  {
+    "id": 65,
+    "roman": "khushaamad",
+    "english": "flattery",
+    "category": "advanced"
+  },
+  {
+    "id": 66,
+    "roman": "bad-unwaani",
+    "english": "corruption",
+    "category": "advanced"
+  },
+  {
+    "id": 67,
+    "roman": "ehtisaab",
+    "english": "accountability",
+    "category": "advanced"
+  },
+  {
+    "id": 68,
+    "roman": "shaffaafiyat",
+    "english": "transparency",
+    "category": "advanced"
+  },
+  {
+    "id": 69,
+    "roman": "maeeshat",
+    "english": "economy",
+    "category": "advanced"
+  },
+  {
+    "id": 70,
+    "roman": "ifraat-e-zar",
+    "english": "inflation",
+    "category": "advanced"
+  },
+  {
+    "id": 71,
+    "roman": "sarmaaya kaari",
+    "english": "investment",
+    "category": "advanced"
+  },
+  {
+    "id": 72,
+    "roman": "khasaara",
+    "english": "loss, deficit",
+    "category": "advanced"
+  },
+  {
+    "id": 73,
+    "roman": "munaafa",
+    "english": "profit",
+    "category": "advanced"
+  },
+  {
+    "id": 74,
+    "roman": "bohraan",
+    "english": "crisis",
+    "category": "advanced"
+  },
+  {
+    "id": 75,
+    "roman": "iqdaam",
+    "english": "measure, step taken",
+    "category": "advanced"
+  },
+  {
+    "id": 76,
+    "roman": "nifaaz",
+    "english": "implementation, enforcement",
+    "category": "advanced"
+  },
+  {
+    "id": 77,
+    "roman": "musawwada",
+    "english": "draft",
+    "category": "advanced"
+  },
+  {
+    "id": 78,
+    "roman": "elaamiya",
+    "english": "declaration, communiqué",
+    "category": "advanced"
+  },
+  {
+    "id": 79,
+    "roman": "gawaahi",
+    "english": "testimony",
+    "category": "advanced"
+  },
+  {
+    "id": 80,
+    "roman": "tafteesh",
+    "english": "investigation",
+    "category": "advanced"
+  },
+  {
+    "id": 81,
+    "roman": "suboot",
+    "english": "evidence, proof",
+    "category": "advanced"
+  },
+  {
+    "id": 82,
+    "roman": "muqaddama",
+    "english": "lawsuit, case",
+    "category": "advanced"
+  },
+  {
+    "id": 83,
+    "roman": "fareeq",
+    "english": "party (to a dispute)",
+    "category": "advanced"
+  },
+  {
+    "id": 84,
+    "roman": "saalisi",
+    "english": "arbitration",
+    "category": "advanced"
+  },
+  {
+    "id": 85,
+    "roman": "maahauliyaat",
+    "english": "environment, ecology",
+    "category": "advanced"
+  },
+  {
+    "id": 86,
+    "roman": "aaloodgi",
+    "english": "pollution",
+    "category": "advanced"
+  },
+  {
+    "id": 87,
+    "roman": "paaedaar",
+    "english": "durable, sustainable",
+    "category": "advanced"
+  },
+  {
+    "id": 88,
+    "roman": "irtiqa",
+    "english": "evolution",
+    "category": "advanced"
+  },
+  {
+    "id": 89,
+    "roman": "eejaad",
+    "english": "invention",
+    "category": "advanced"
+  },
+  {
+    "id": 90,
+    "roman": "daryaaft",
+    "english": "discovery",
+    "category": "advanced"
+  },
+  {
+    "id": 91,
+    "roman": "maakhaz",
+    "english": "source",
+    "category": "advanced"
+  },
+  {
+    "id": 92,
+    "roman": "hawaala",
+    "english": "reference",
+    "category": "advanced"
+  },
+  {
+    "id": 93,
+    "roman": "ishaaat",
+    "english": "publication",
+    "category": "advanced"
+  },
+  {
+    "id": 94,
+    "roman": "tarjumaan",
+    "english": "spokesperson",
+    "category": "advanced"
+  },
+  {
+    "id": 95,
+    "roman": "awaam",
+    "english": "the public",
+    "category": "advanced"
+  },
+  {
+    "id": 96,
+    "roman": "aksariyat",
+    "english": "majority",
+    "category": "advanced"
+  },
+  {
+    "id": 97,
+    "roman": "aqliyat",
+    "english": "minority",
+    "category": "advanced"
+  },
+  {
+    "id": 98,
+    "roman": "mafaad",
+    "english": "interest, benefit",
+    "category": "advanced"
+  },
+  {
+    "id": 99,
+    "roman": "aitraaz",
+    "english": "objection",
+    "category": "advanced"
+  },
+  {
+    "id": 100,
+    "roman": "tauseeq",
+    "english": "ratification, confirmation",
+    "category": "advanced"
+  },
+  {
+    "id": 101,
+    "roman": "tardeed",
+    "english": "denial, refutation",
+    "category": "advanced"
+  },
+  {
+    "id": 102,
+    "roman": "hijr",
+    "english": "separation from the beloved",
+    "category": "poetic"
+  },
+  {
+    "id": 103,
+    "roman": "visaal",
+    "english": "union with the beloved",
+    "category": "poetic"
+  },
+  {
+    "id": 104,
+    "roman": "saraab",
+    "english": "mirage",
+    "category": "poetic"
+  },
+  {
+    "id": 105,
+    "roman": "tishnagi",
+    "english": "thirst, longing",
+    "category": "poetic"
+  },
+  {
+    "id": 106,
+    "roman": "firaaq",
+    "english": "separation, parting",
+    "category": "poetic"
+  },
+  {
+    "id": 107,
+    "roman": "junoon",
+    "english": "passion, madness of love",
+    "category": "poetic"
+  },
+  {
+    "id": 108,
+    "roman": "wahshat",
+    "english": "wildness, frenzy",
+    "category": "poetic"
+  },
+  {
+    "id": 109,
+    "roman": "mehshar",
+    "english": "Day of Reckoning; tumult",
+    "category": "poetic"
+  },
+  {
+    "id": 110,
+    "roman": "qafas",
+    "english": "cage",
+    "category": "poetic"
+  },
+  {
+    "id": 111,
+    "roman": "sayyaad",
+    "english": "hunter, fowler",
+    "category": "poetic"
+  },
+  {
+    "id": 112,
+    "roman": "gulshan",
+    "english": "garden",
+    "category": "poetic"
+  },
+  {
+    "id": 113,
+    "roman": "chaman",
+    "english": "garden, meadow",
+    "category": "poetic"
+  },
+  {
+    "id": 114,
+    "roman": "bulbul",
+    "english": "nightingale",
+    "category": "poetic"
+  },
+  {
+    "id": 115,
+    "roman": "parwaana",
+    "english": "moth (devoted to the flame)",
+    "category": "poetic"
+  },
+  {
+    "id": 116,
+    "roman": "saaqi",
+    "english": "cupbearer",
+    "category": "poetic"
+  },
+  {
+    "id": 117,
+    "roman": "mai",
+    "english": "wine",
+    "category": "poetic"
+  },
+  {
+    "id": 118,
+    "roman": "maikhaana",
+    "english": "tavern",
+    "category": "poetic"
+  },
+  {
+    "id": 119,
+    "roman": "jaam",
+    "english": "goblet",
+    "category": "poetic"
+  },
+  {
+    "id": 120,
+    "roman": "saba",
+    "english": "morning breeze",
+    "category": "poetic"
+  },
+  {
+    "id": 121,
+    "roman": "naseem",
+    "english": "gentle breeze",
+    "category": "poetic"
+  },
+  {
+    "id": 122,
+    "roman": "shabnam",
+    "english": "dew",
+    "category": "poetic"
+  },
+  {
+    "id": 123,
+    "roman": "mahtaab",
+    "english": "moonlight, moon",
+    "category": "poetic"
+  },
+  {
+    "id": 124,
+    "roman": "aaftaab",
+    "english": "sun",
+    "category": "poetic"
+  },
+  {
+    "id": 125,
+    "roman": "kahkashaan",
+    "english": "galaxy, Milky Way",
+    "category": "poetic"
+  },
+  {
+    "id": 126,
+    "roman": "ufuq",
+    "english": "horizon",
+    "category": "poetic"
+  },
+  {
+    "id": 127,
+    "roman": "shafaq",
+    "english": "twilight glow",
+    "category": "poetic"
+  },
+  {
+    "id": 128,
+    "roman": "sehar",
+    "english": "dawn",
+    "category": "poetic"
+  },
+  {
+    "id": 129,
+    "roman": "shab",
+    "english": "night",
+    "category": "poetic"
+  },
+  {
+    "id": 130,
+    "roman": "dayaar",
+    "english": "land, region",
+    "category": "poetic"
+  },
+  {
+    "id": 131,
+    "roman": "koocha",
+    "english": "lane (often of the beloved)",
+    "category": "poetic"
+  },
+  {
+    "id": 132,
+    "roman": "dasht",
+    "english": "wilderness",
+    "category": "poetic"
+  },
+  {
+    "id": 133,
+    "roman": "girdaab",
+    "english": "whirlpool",
+    "category": "poetic"
+  },
+  {
+    "id": 134,
+    "roman": "saahil",
+    "english": "shore",
+    "category": "poetic"
+  },
+  {
+    "id": 135,
+    "roman": "talaatum",
+    "english": "turbulence (of waves)",
+    "category": "poetic"
+  },
+  {
+    "id": 136,
+    "roman": "mauj",
+    "english": "wave",
+    "category": "poetic"
+  },
+  {
+    "id": 137,
+    "roman": "qatra",
+    "english": "drop",
+    "category": "poetic"
+  },
+  {
+    "id": 138,
+    "roman": "dareecha",
+    "english": "small window",
+    "category": "poetic"
+  },
+  {
+    "id": 139,
+    "roman": "aashiyaana",
+    "english": "nest, abode",
+    "category": "poetic"
+  },
+  {
+    "id": 140,
+    "roman": "maseeha",
+    "english": "healer, savior",
+    "category": "poetic"
+  },
+  {
+    "id": 141,
+    "roman": "chaaragar",
+    "english": "healer",
+    "category": "poetic"
+  },
+  {
+    "id": 142,
+    "roman": "darmaan",
+    "english": "remedy, cure",
+    "category": "poetic"
+  },
+  {
+    "id": 143,
+    "roman": "zindaan",
+    "english": "prison",
+    "category": "poetic"
+  },
+  {
+    "id": 144,
+    "roman": "zanjeer",
+    "english": "chain",
+    "category": "poetic"
+  },
+  {
+    "id": 145,
+    "roman": "raqeeb",
+    "english": "rival in love",
+    "category": "poetic"
+  },
+  {
+    "id": 146,
+    "roman": "mehboob",
+    "english": "beloved",
+    "category": "poetic"
+  },
+  {
+    "id": 147,
+    "roman": "aashiq",
+    "english": "lover",
+    "category": "poetic"
+  },
+  {
+    "id": 148,
+    "roman": "jaanaan",
+    "english": "beloved (term of address)",
+    "category": "poetic"
+  },
+  {
+    "id": 149,
+    "roman": "dilbar",
+    "english": "heart-stealer, beloved",
+    "category": "poetic"
+  },
+  {
+    "id": 150,
+    "roman": "sitamgar",
+    "english": "tyrant, cruel one",
+    "category": "poetic"
+  },
+  {
+    "id": 151,
+    "roman": "sitam",
+    "english": "cruelty, oppression",
+    "category": "poetic"
+  },
+  {
+    "id": 152,
+    "roman": "jafa",
+    "english": "cruelty, faithlessness",
+    "category": "poetic"
+  },
+  {
+    "id": 153,
+    "roman": "bewafaai",
+    "english": "infidelity, betrayal",
+    "category": "poetic"
+  },
+  {
+    "id": 154,
+    "roman": "ashk",
+    "english": "tear",
+    "category": "poetic"
+  },
+  {
+    "id": 155,
+    "roman": "aah",
+    "english": "sigh",
+    "category": "poetic"
+  },
+  {
+    "id": 156,
+    "roman": "fughaan",
+    "english": "lament, cry",
+    "category": "poetic"
+  },
+  {
+    "id": 157,
+    "roman": "naala",
+    "english": "wail, lament",
+    "category": "poetic"
+  },
+  {
+    "id": 158,
+    "roman": "hasrat",
+    "english": "unfulfilled longing",
+    "category": "poetic"
+  },
+  {
+    "id": 159,
+    "roman": "armaan",
+    "english": "cherished desire",
+    "category": "poetic"
+  },
+  {
+    "id": 160,
+    "roman": "khumaar",
+    "english": "intoxication, languor",
+    "category": "poetic"
+  },
+  {
+    "id": 161,
+    "roman": "suroor",
+    "english": "elation, mild intoxication",
+    "category": "poetic"
+  },
+  {
+    "id": 162,
+    "roman": "kaif",
+    "english": "rapture, ecstasy",
+    "category": "poetic"
+  },
+  {
+    "id": 163,
+    "roman": "nishaat",
+    "english": "joy",
+    "category": "poetic"
+  },
+  {
+    "id": 164,
+    "roman": "tarab",
+    "english": "merriment",
+    "category": "poetic"
+  },
+  {
+    "id": 165,
+    "roman": "malaal",
+    "english": "grief, regret",
+    "category": "poetic"
+  },
+  {
+    "id": 166,
+    "roman": "huzn",
+    "english": "melancholy",
+    "category": "poetic"
+  },
+  {
+    "id": 167,
+    "roman": "yaas",
+    "english": "despair",
+    "category": "poetic"
+  },
+  {
+    "id": 168,
+    "roman": "shikasta",
+    "english": "broken",
+    "category": "poetic"
+  },
+  {
+    "id": 169,
+    "roman": "bismil",
+    "english": "wounded, slain (lover)",
+    "category": "poetic"
+  },
+  {
+    "id": 170,
+    "roman": "garebaan",
+    "english": "collar (torn in grief)",
+    "category": "poetic"
+  },
+  {
+    "id": 171,
+    "roman": "daaman",
+    "english": "hem of a garment; lap",
+    "category": "poetic"
+  },
+  {
+    "id": 172,
+    "roman": "aks",
+    "english": "reflection",
+    "category": "poetic"
+  },
+  {
+    "id": 173,
+    "roman": "parchhaaeen",
+    "english": "shadow, silhouette",
+    "category": "poetic"
+  },
+  {
+    "id": 174,
+    "roman": "naqsh",
+    "english": "imprint, image",
+    "category": "poetic"
+  },
+  {
+    "id": 175,
+    "roman": "sukhan",
+    "english": "speech, poetry",
+    "category": "poetic"
+  },
+  {
+    "id": 176,
+    "roman": "sukhanwar",
+    "english": "eloquent poet",
+    "category": "poetic"
+  },
+  {
+    "id": 177,
+    "roman": "qaafiya",
+    "english": "rhyme",
+    "category": "poetic"
+  },
+  {
+    "id": 178,
+    "roman": "radeef",
+    "english": "refrain (in a ghazal)",
+    "category": "poetic"
+  },
+  {
+    "id": 179,
+    "roman": "matla",
+    "english": "opening couplet of a ghazal",
+    "category": "poetic"
+  },
+  {
+    "id": 180,
+    "roman": "maqta",
+    "english": "closing couplet (with pen name)",
+    "category": "poetic"
+  },
+  {
+    "id": 181,
+    "roman": "takhallus",
+    "english": "poet's pen name",
+    "category": "poetic"
+  },
+  {
+    "id": 182,
+    "roman": "daastaan",
+    "english": "epic tale",
+    "category": "poetic"
+  },
+  {
+    "id": 183,
+    "roman": "afsaana",
+    "english": "short story, fable",
+    "category": "poetic"
+  },
+  {
+    "id": 184,
+    "roman": "zamaana",
+    "english": "era; the world",
+    "category": "poetic"
+  },
+  {
+    "id": 185,
+    "roman": "dahr",
+    "english": "the world, time",
+    "category": "poetic"
+  },
+  {
+    "id": 186,
+    "roman": "falak",
+    "english": "sky, heavens",
+    "category": "poetic"
+  },
+  {
+    "id": 187,
+    "roman": "arsh",
+    "english": "highest heaven",
+    "category": "poetic"
+  },
+  {
+    "id": 188,
+    "roman": "khaak",
+    "english": "dust",
+    "category": "poetic"
+  },
+  {
+    "id": 189,
+    "roman": "ghubaar",
+    "english": "cloud of dust",
+    "category": "poetic"
+  },
+  {
+    "id": 190,
+    "roman": "shola",
+    "english": "flame",
+    "category": "poetic"
+  },
+  {
+    "id": 191,
+    "roman": "sharar",
+    "english": "spark",
+    "category": "poetic"
+  },
+  {
+    "id": 192,
+    "roman": "aatish",
+    "english": "fire",
+    "category": "poetic"
+  },
+  {
+    "id": 193,
+    "roman": "taqdeer",
+    "english": "destiny",
+    "category": "poetic"
+  },
+  {
+    "id": 194,
+    "roman": "aawaara",
+    "english": "wanderer, vagrant",
+    "category": "poetic"
+  },
+  {
+    "id": 195,
+    "roman": "darvesh",
+    "english": "mendicant, mystic",
+    "category": "poetic"
+  },
+  {
+    "id": 196,
+    "roman": "khalwat",
+    "english": "solitude",
+    "category": "poetic"
+  },
+  {
+    "id": 197,
+    "roman": "jalwa",
+    "english": "splendor, manifestation",
+    "category": "poetic"
+  },
+  {
+    "id": 198,
+    "roman": "deedaar",
+    "english": "sight of the beloved",
+    "category": "poetic"
+  },
+  {
+    "id": 199,
+    "roman": "nazzaara",
+    "english": "spectacle, view",
+    "category": "poetic"
+  },
+  {
+    "id": 200,
+    "roman": "rukhsaar",
+    "english": "cheek",
+    "category": "poetic"
+  },
+  {
+    "id": 201,
+    "roman": "zulf",
+    "english": "lock of hair",
+    "category": "poetic"
+  },
+  {
+    "id": 202,
+    "roman": "lab",
+    "english": "lip",
+    "category": "poetic"
+  },
+  {
+    "id": 203,
+    "roman": "nigaah",
+    "english": "gaze, glance",
+    "category": "poetic"
+  },
+  {
+    "id": 204,
+    "roman": "ada",
+    "english": "grace, charm",
+    "category": "poetic"
+  },
+  {
+    "id": 205,
+    "roman": "naaz",
+    "english": "pride, coquetry",
+    "category": "poetic"
+  },
+  {
+    "id": 206,
+    "roman": "aankh ka taara",
+    "english": "apple of one's eye",
+    "category": "idiom"
+  },
+  {
+    "id": 207,
+    "roman": "nau do gyaarah hona",
+    "english": "to run away, vanish",
+    "category": "idiom"
+  },
+  {
+    "id": 208,
+    "roman": "aasteen ka saanp",
+    "english": "a traitor close to you",
+    "category": "idiom"
+  },
+  {
+    "id": 209,
+    "roman": "daal mein kuch kaala hona",
+    "english": "something fishy going on",
+    "category": "idiom"
+  },
+  {
+    "id": 210,
+    "roman": "oont ke munh mein zeera",
+    "english": "a drop in the ocean",
+    "category": "idiom"
+  },
+  {
+    "id": 211,
+    "roman": "aasmaan sar par uthaana",
+    "english": "to create an uproar",
+    "category": "idiom"
+  },
+  {
+    "id": 212,
+    "roman": "eri choti ka zor lagaana",
+    "english": "to try one's utmost",
+    "category": "idiom"
+  },
+  {
+    "id": 213,
+    "roman": "aag bagoola hona",
+    "english": "to be furious",
+    "category": "idiom"
+  },
+  {
+    "id": 214,
+    "roman": "aankhein churaana",
+    "english": "to avoid someone's gaze",
+    "category": "idiom"
+  },
+  {
+    "id": 215,
+    "roman": "aankhein bichhaana",
+    "english": "to welcome someone warmly",
+    "category": "idiom"
+  },
+  {
+    "id": 216,
+    "roman": "apne munh miyaan mitthu banna",
+    "english": "to blow one's own trumpet",
+    "category": "idiom"
+  },
+  {
+    "id": 217,
+    "roman": "ungliyon par nachaana",
+    "english": "to have someone wrapped around your finger",
+    "category": "idiom"
+  },
+  {
+    "id": 218,
+    "roman": "baal baal bachna",
+    "english": "to have a narrow escape",
+    "category": "idiom"
+  },
+  {
+    "id": 219,
+    "roman": "baghlein jhaankna",
+    "english": "to be at a loss for an answer",
+    "category": "idiom"
+  },
+  {
+    "id": 220,
+    "roman": "paani paani hona",
+    "english": "to be deeply ashamed",
+    "category": "idiom"
+  },
+  {
+    "id": 221,
+    "roman": "pet mein choohe daurna",
+    "english": "to be very hungry",
+    "category": "idiom"
+  },
+  {
+    "id": 222,
+    "roman": "talwe chaatna",
+    "english": "to grovel, flatter abjectly",
+    "category": "idiom"
+  },
+  {
+    "id": 223,
+    "roman": "terhi kheer",
+    "english": "a hard nut to crack",
+    "category": "idiom"
+  },
+  {
+    "id": 224,
+    "roman": "chaar chaand lagaana",
+    "english": "to add to the glory or beauty",
+    "category": "idiom"
+  },
+  {
+    "id": 225,
+    "roman": "chikna ghara",
+    "english": "a thick-skinned person",
+    "category": "idiom"
+  },
+  {
+    "id": 226,
+    "roman": "khoon paseena ek karna",
+    "english": "to work extremely hard",
+    "category": "idiom"
+  },
+  {
+    "id": 227,
+    "roman": "daanton tale ungli dabaana",
+    "english": "to be astonished",
+    "category": "idiom"
+  },
+  {
+    "id": 228,
+    "roman": "dil baagh baagh hona",
+    "english": "to be overjoyed",
+    "category": "idiom"
+  },
+  {
+    "id": 229,
+    "roman": "din mein taare nazar aana",
+    "english": "to be dazed by trouble",
+    "category": "idiom"
+  },
+  {
+    "id": 230,
+    "roman": "hawa se baatein karna",
+    "english": "to move extremely fast",
+    "category": "idiom"
+  },
+  {
+    "id": 231,
+    "roman": "sar par paaon rakh kar bhaagna",
+    "english": "to flee in great haste",
+    "category": "idiom"
+  },
+  {
+    "id": 232,
+    "roman": "sone par suhaaga",
+    "english": "icing on the cake",
+    "category": "idiom"
+  },
+  {
+    "id": 233,
+    "roman": "eid ka chaand hona",
+    "english": "to be seen very rarely",
+    "category": "idiom"
+  },
+  {
+    "id": 234,
+    "roman": "kaan khare hona",
+    "english": "to become alert",
+    "category": "idiom"
+  },
+  {
+    "id": 235,
+    "roman": "kaan par joon na reengna",
+    "english": "to be completely unmoved",
+    "category": "idiom"
+  },
+  {
+    "id": 236,
+    "roman": "ghee ke chiraagh jalaana",
+    "english": "to celebrate joyfully",
+    "category": "idiom"
+  },
+  {
+    "id": 237,
+    "roman": "lohe ke chane chabaana",
+    "english": "to do something very hard",
+    "category": "idiom"
+  },
+  {
+    "id": 238,
+    "roman": "munh mein paani bhar aana",
+    "english": "to have one's mouth water",
+    "category": "idiom"
+  },
+  {
+    "id": 239,
+    "roman": "naak mein dam karna",
+    "english": "to harass, pester",
+    "category": "idiom"
+  },
+  {
+    "id": 240,
+    "roman": "naak katna",
+    "english": "to be disgraced",
+    "category": "idiom"
+  },
+  {
+    "id": 241,
+    "roman": "haath paaon phool jaana",
+    "english": "to panic",
+    "category": "idiom"
+  },
+  {
+    "id": 242,
+    "roman": "hatheli par sarson jamaana",
+    "english": "to expect instant results",
+    "category": "idiom"
+  },
+  {
+    "id": 243,
+    "roman": "aam ke aam guthliyon ke daam",
+    "english": "a double benefit",
+    "category": "idiom"
+  },
+  {
+    "id": 244,
+    "roman": "andhon mein kaana raaja",
+    "english": "among the blind, the one-eyed man is king",
+    "category": "idiom"
+  },
+  {
+    "id": 245,
+    "roman": "oonchi dukaan pheeka pakwaan",
+    "english": "all show, no substance",
+    "category": "idiom"
+  },
+  {
+    "id": 246,
+    "roman": "jis ki laathi us ki bhains",
+    "english": "might is right",
+    "category": "idiom"
+  },
+  {
+    "id": 247,
+    "roman": "naach na jaane aangan terha",
+    "english": "a bad workman blames his tools",
+    "category": "idiom"
+  },
+  {
+    "id": 248,
+    "roman": "door ke dhol suhaane",
+    "english": "the grass is greener on the other side",
+    "category": "idiom"
+  },
+  {
+    "id": 249,
+    "roman": "bandar kya jaane adrak ka swaad",
+    "english": "pearls before swine",
+    "category": "idiom"
+  },
+  {
+    "id": 250,
+    "roman": "ghar ki murghi daal baraabar",
+    "english": "familiarity breeds contempt",
+    "category": "idiom"
+  },
+  {
+    "id": 251,
+    "roman": "ek anaar sau beemaar",
+    "english": "one thing, too many takers",
+    "category": "idiom"
+  },
+  {
+    "id": 252,
+    "roman": "ab pachhtaaye kya hot jab chiriyaan chug gaeen khet",
+    "english": "no use crying over spilt milk",
+    "category": "idiom"
+  },
+  {
+    "id": 253,
+    "roman": "ulta chor kotwaal ko daante",
+    "english": "the guilty blaming the innocent",
+    "category": "idiom"
+  },
+  {
+    "id": 254,
+    "roman": "neki kar darya mein daal",
+    "english": "do good and expect nothing back",
+    "category": "idiom"
+  },
+  {
+    "id": 255,
+    "roman": "haath kangan ko aarsi kya",
+    "english": "the obvious needs no proof",
+    "category": "idiom"
+  },
+  {
+    "id": 256,
+    "roman": "jitni chaadar dekho utne paaon phailaao",
+    "english": "cut your coat according to your cloth",
+    "category": "idiom"
+  },
+  {
+    "id": 257,
+    "roman": "aa bail mujhe maar",
+    "english": "to invite trouble",
+    "category": "idiom"
+  },
+  {
+    "id": 258,
+    "roman": "thotha chana baaje ghana",
+    "english": "empty vessels make the most noise",
+    "category": "idiom"
+  },
+  {
+    "id": 259,
+    "roman": "doodh ka jala chhaachh bhi phoonk phoonk kar peeta hai",
+    "english": "once bitten, twice shy",
+    "category": "idiom"
+  },
+  {
+    "id": 260,
+    "roman": "maan na maan main tera mehmaan",
+    "english": "an uninvited guest",
+    "category": "idiom"
+  },
+  {
+    "id": 261,
+    "roman": "hawaai qile banaana",
+    "english": "to build castles in the air",
+    "category": "idiom"
+  },
+  {
+    "id": 262,
+    "roman": "khoda pahaar nikla chooha",
+    "english": "much ado about nothing",
+    "category": "idiom"
+  },
+  {
+    "id": 263,
+    "roman": "aankhon mein dhool jhonkna",
+    "english": "to deceive",
+    "category": "idiom"
+  },
+  {
+    "id": 264,
+    "roman": "aape se baahar hona",
+    "english": "to lose one's temper",
+    "category": "idiom"
+  },
+  {
+    "id": 265,
+    "roman": "paaon tale zameen nikal jaana",
+    "english": "to be stunned by shock",
+    "category": "idiom"
+  },
+  {
+    "id": 266,
+    "roman": "zameen aasmaan ek karna",
+    "english": "to leave no stone unturned",
+    "category": "idiom"
+  },
+  {
+    "id": 267,
+    "roman": "tas se mas na hona",
+    "english": "to not budge at all",
+    "category": "idiom"
+  },
+  {
+    "id": 268,
+    "roman": "gare murde ukhaarna",
+    "english": "to rake up the past",
+    "category": "idiom"
+  },
+  {
+    "id": 269,
+    "roman": "rang mein bhang daalna",
+    "english": "to spoil the fun",
+    "category": "idiom"
+  },
+  {
+    "id": 270,
+    "roman": "kaleja munh ko aana",
+    "english": "to be in deep anguish",
+    "category": "idiom"
+  },
+  {
+    "id": 271,
+    "roman": "dil par patthar rakhna",
+    "english": "to steel oneself",
+    "category": "idiom"
+  },
+  {
+    "id": 272,
+    "roman": "haath malte reh jaana",
+    "english": "to be left regretting",
+    "category": "idiom"
+  },
+  {
+    "id": 273,
+    "roman": "mitti mein milaana",
+    "english": "to ruin completely",
+    "category": "idiom"
+  },
+  {
+    "id": 274,
+    "roman": "apna ullu seedha karna",
+    "english": "to serve one's own ends",
+    "category": "idiom"
+  },
+  {
+    "id": 275,
+    "roman": "baat ka batangar banaana",
+    "english": "to make a mountain out of a molehill",
+    "category": "idiom"
+  },
+  {
+    "id": 276,
+    "roman": "kaanon kaan khabar na hona",
+    "english": "to stay completely secret",
+    "category": "idiom"
+  },
+  {
+    "id": 277,
+    "roman": "lakeer ka faqeer",
+    "english": "a blind follower of convention",
+    "category": "idiom"
+  },
+  {
+    "id": 278,
+    "roman": "haath dho kar peechhe parna",
+    "english": "to pursue relentlessly",
+    "category": "idiom"
+  },
+  {
+    "id": 279,
+    "roman": "aate daal ka bhaao maaloom hona",
+    "english": "to learn life's harsh realities",
+    "category": "idiom"
+  },
+  {
+    "id": 280,
+    "roman": "tajassus",
+    "english": "curiosity",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 281,
+    "roman": "ishtiyaaq",
+    "english": "eagerness",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 282,
+    "roman": "betaabi",
+    "english": "impatience",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 283,
+    "roman": "justuju",
+    "english": "quest, search",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 284,
+    "roman": "tahammul",
+    "english": "forbearance",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 285,
+    "roman": "bardaasht",
+    "english": "tolerance, endurance",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 286,
+    "roman": "faraakhdili",
+    "english": "generosity",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 287,
+    "roman": "kanjoosi",
+    "english": "stinginess",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 288,
+    "roman": "hasad",
+    "english": "envy",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 289,
+    "roman": "rashk",
+    "english": "admiring envy",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 290,
+    "roman": "pachhtaawa",
+    "english": "regret",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 291,
+    "roman": "nadaamat",
+    "english": "remorse",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 292,
+    "roman": "sharmindagi",
+    "english": "embarrassment",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 293,
+    "roman": "jhijhak",
+    "english": "hesitation",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 294,
+    "roman": "uktaahat",
+    "english": "boredom",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 295,
+    "roman": "uljhan",
+    "english": "confusion, tangle",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 296,
+    "roman": "ghalat fehmi",
+    "english": "misunderstanding",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 297,
+    "roman": "badgumaani",
+    "english": "suspicion, distrust",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 298,
+    "roman": "khush fehmi",
+    "english": "wishful thinking",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 299,
+    "roman": "laaparwaai",
+    "english": "carelessness",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 300,
+    "roman": "ehtiyaat",
+    "english": "caution",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 301,
+    "roman": "saleeqa",
+    "english": "refinement, good taste",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 302,
+    "roman": "tameez",
+    "english": "manners",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 303,
+    "roman": "badtameezi",
+    "english": "rudeness",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 304,
+    "roman": "murawwat",
+    "english": "consideration, courtesy",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 305,
+    "roman": "lihaaz",
+    "english": "regard, deference",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 306,
+    "roman": "takalluf",
+    "english": "formality",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 307,
+    "roman": "betakallufi",
+    "english": "informality, ease",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 308,
+    "roman": "guftagu",
+    "english": "conversation",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 309,
+    "roman": "behes",
+    "english": "debate, argument",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 310,
+    "roman": "jhagra",
+    "english": "quarrel",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 311,
+    "roman": "sulah",
+    "english": "reconciliation",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 312,
+    "roman": "tanz",
+    "english": "sarcasm",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 313,
+    "roman": "mizaah",
+    "english": "humor",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 314,
+    "roman": "lateefa",
+    "english": "joke, anecdote",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 315,
+    "roman": "afwaah",
+    "english": "rumor",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 316,
+    "roman": "charcha",
+    "english": "talk, buzz",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 317,
+    "roman": "shohrat",
+    "english": "fame",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 318,
+    "roman": "badnaami",
+    "english": "infamy",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 319,
+    "roman": "gumnaam",
+    "english": "anonymous, unknown",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 320,
+    "roman": "wiraasat",
+    "english": "inheritance, heritage",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 321,
+    "roman": "jaaedaad",
+    "english": "property",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 322,
+    "roman": "qarz",
+    "english": "loan, debt",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 323,
+    "roman": "bachat",
+    "english": "savings",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 324,
+    "roman": "fuzool kharchi",
+    "english": "extravagance",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 325,
+    "roman": "kifaayat",
+    "english": "thrift",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 326,
+    "roman": "mansooba",
+    "english": "plan, project",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 327,
+    "roman": "mahaarat",
+    "english": "expertise",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 328,
+    "roman": "tarbiyat",
+    "english": "training, upbringing",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 329,
+    "roman": "parwarish",
+    "english": "nurturing, upbringing",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 330,
+    "roman": "hausla afzaai",
+    "english": "encouragement",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 331,
+    "roman": "maayoosi",
+    "english": "disappointment",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 332,
+    "roman": "tawaqqo",
+    "english": "expectation",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 333,
+    "roman": "andesha",
+    "english": "apprehension",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 334,
+    "roman": "gumaan",
+    "english": "supposition",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 335,
+    "roman": "yaqeen",
+    "english": "belief, certainty",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 336,
+    "roman": "shak",
+    "english": "doubt",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 337,
+    "roman": "wehem",
+    "english": "imagined fear, delusion",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 338,
+    "roman": "azm",
+    "english": "resolve",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 339,
+    "roman": "istiqaamat",
+    "english": "steadfastness",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 340,
+    "roman": "fateh",
+    "english": "conquest",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 341,
+    "roman": "shikast",
+    "english": "defeat",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 342,
+    "roman": "muzaahimat",
+    "english": "resistance",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 343,
+    "roman": "paspaai",
+    "english": "retreat",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 344,
+    "roman": "faraar",
+    "english": "escape",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 345,
+    "roman": "panaah",
+    "english": "refuge",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 346,
+    "roman": "watan",
+    "english": "homeland",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 347,
+    "roman": "pardes",
+    "english": "foreign land",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 348,
+    "roman": "ajnabi",
+    "english": "stranger",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 349,
+    "roman": "aashna",
+    "english": "acquainted, familiar",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 350,
+    "roman": "rifaaqat",
+    "english": "companionship",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 351,
+    "roman": "taalluq",
+    "english": "connection, relation",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 352,
+    "roman": "faasla",
+    "english": "distance",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 353,
+    "roman": "qurbat",
+    "english": "closeness",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 354,
+    "roman": "lagaao",
+    "english": "attachment",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 355,
+    "roman": "bezaari",
+    "english": "aversion, weariness",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 356,
+    "roman": "dilchaspi",
+    "english": "interest",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 357,
+    "roman": "mashghala",
+    "english": "pastime",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 358,
+    "roman": "farmaaish",
+    "english": "request",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 359,
+    "roman": "guzaarish",
+    "english": "humble request",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 360,
+    "roman": "israar",
+    "english": "insistence",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 361,
+    "roman": "inkaar",
+    "english": "refusal",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 362,
+    "roman": "iqraar",
+    "english": "admission, affirmation",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 363,
+    "roman": "izhaar",
+    "english": "expression",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 364,
+    "roman": "khulaasa",
+    "english": "summary",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 365,
+    "roman": "tafseel",
+    "english": "detail",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 366,
+    "roman": "misaal",
+    "english": "example",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 367,
+    "roman": "nateeja",
+    "english": "result",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 368,
+    "roman": "wajah",
+    "english": "reason",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 369,
+    "roman": "asar",
+    "english": "effect, influence",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 370,
+    "roman": "rujhaan",
+    "english": "tendency, trend",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 371,
+    "roman": "maamool",
+    "english": "routine",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 372,
+    "roman": "ittefaaqan",
+    "english": "by chance",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 373,
+    "roman": "ghaaliban",
+    "english": "probably",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 374,
+    "roman": "bilaawajah",
+    "english": "for no reason",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 375,
+    "roman": "zabardasti",
+    "english": "by force",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 376,
+    "roman": "naagahaani",
+    "english": "sudden, unforeseen",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 377,
+    "roman": "purasraar",
+    "english": "mysterious",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 378,
+    "roman": "dilkash",
+    "english": "charming",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 379,
+    "roman": "dilchasp",
+    "english": "interesting",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 380,
+    "roman": "bezaar",
+    "english": "fed up",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 381,
+    "roman": "bebas",
+    "english": "helpless",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 382,
+    "roman": "majboor",
+    "english": "compelled, helpless",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 383,
+    "roman": "maghroor",
+    "english": "haughty",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 384,
+    "roman": "farz shanaas",
+    "english": "dutiful",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 385,
+    "roman": "nikamma",
+    "english": "useless, idle",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 386,
+    "roman": "chaalaak",
+    "english": "clever, cunning",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 387,
+    "roman": "hoshiyaar",
+    "english": "alert, smart",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 388,
+    "roman": "baawaqaar",
+    "english": "dignified",
+    "category": "upper-intermediate"
+  },
+  {
+    "id": 389,
+    "roman": "kathin",
+    "english": "arduous",
+    "category": "upper-intermediate"
+  }
+]
