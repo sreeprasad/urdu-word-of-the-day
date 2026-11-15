@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Urdu word of the day</title>
+  <style>
+    @font-face { font-family: "Rozha One"; src: url(/fonts/rozha-one-latin-400-normal.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+    @font-face { font-family: Hind; src: url(/fonts/hind-latin-400-normal.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+    @font-face { font-family: Hind; src: url(/fonts/hind-latin-500-normal.woff2) format("woff2"); font-weight: 500; font-display: swap; }
+    @font-face { font-family: Hind; src: url(/fonts/hind-latin-600-normal.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+    :root {
+      --paper: #e4eadf;
+      --rule: #afc0da;
+      --margin: #c23b2e;
+      --ink: #1c2b5e;
+      --pencil: #646b73;
+      --line: 32px;              /* one ruled line */
+      --gutter: 120px;           /* width of the margin column */
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --paper: #1d2330;
+        --rule: #303c55;
+        --margin: #d4594b;
+        --ink: #dfe6f3;
+        --pencil: #98a1ad;
+      }
+    }
+
+    * { box-sizing: border-box; }
+    html { background: var(--paper); }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      font: 400 18px/var(--line) Hind, system-ui, sans-serif;
+      /* Ruled lines + the red margin line, like a school copy-book. */
+      background:
+        linear-gradient(to right, transparent calc(var(--gutter) - 2px), var(--margin) calc(var(--gutter) - 2px), var(--margin) var(--gutter), transparent var(--gutter)) ,
+        repeating-linear-gradient(to bottom, transparent 0, transparent calc(var(--line) - 1px), var(--rule) calc(var(--line) - 1px), var(--rule) var(--line));
+      background-attachment: local;
+      padding: calc(var(--line) * 2) 24px calc(var(--line) * 4) 0;
+    }
+
+    /* Each row: margin note on the left, writing on the right. */
+    .row {
+      display: grid;
+      grid-template-columns: var(--gutter) minmax(0, 640px);
+      align-items: start;
+    }
+    .note {
+      grid-column: 1;
+      padding-right: 14px;
+      text-align: right;
+      color: var(--pencil);
+      font-size: 15px;
+    }
+    .text { grid-column: 2; padding-left: 20px; }
+
+    p, h1, h2, ol, ul { margin: 0; }
+
+    .masthead .text { display: flex; justify-content: space-between; gap: 16px; }
+    .masthead .title { font-weight: 600; }
+    .masthead time { color: var(--pencil); white-space: nowrap; }
+    .note { white-space: nowrap; }
+
+    .gap { height: var(--line); }
+
+    .word {
+      font: 400 72px/calc(var(--line) * 3) "Rozha One", Georgia, serif;
+      letter-spacing: -0.01em;
+      overflow-wrap: anywhere;
+    }
+    .word.small { font-size: 44px; line-height: calc(var(--line) * 2); }
+    .meaning { font-size: 21px; }
+
+    .examples { list-style: none; padding: 0; }
+    .examples li { margin-bottom: var(--line); }
+    .examples .en { color: var(--pencil); }
+    .hide-en .examples .en { visibility: hidden; }
+
+    h2 { font: 600 18px/var(--line) Hind, sans-serif; }
+
+    button {
+      font: 500 16px/1 Hind, sans-serif;
+      color: var(--ink);
+      background: none;
+      border: 0;
+      padding: 0;
+      height: var(--line);
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 4px;
+      text-decoration-thickness: 1px;
+    }
+    button.save {
+      text-decoration: none;
+      background: var(--ink);
+      color: var(--paper);
+      padding: 0 18px;
+      border-radius: 2px;
+      height: calc(var(--line) - 4px);
+      margin-top: 2px;
+    }
+    button:disabled { opacity: .5; cursor: wait; }
+    button:focus-visible, textarea:focus-visible { outline: 2px solid var(--margin); outline-offset: 2px; }
+
+    /* Writing directly on the ruled lines. */
+    textarea {
+      display: block;
+      width: 100%;
+      height: calc(var(--line) * 2);
+      padding: 0;
+      margin: 0;
+      border: 0;
+      resize: none;
+      background: transparent;
+      color: var(--ink);
+      font: 400 20px/var(--line) Hind, sans-serif;
+    }
+    textarea::placeholder { color: var(--pencil); opacity: .7; }
+    .mine { font-size: 20px; }
+    .error { color: var(--margin); }
+    .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+    .tick { width: 40px; height: var(--line); margin-left: auto; display: block; }
+    .tick path {
+      fill: none; stroke: var(--margin); stroke-width: 3.5; stroke-linecap: round; stroke-linejoin: round;
+      stroke-dasharray: 60; stroke-dashoffset: 0;
+    }
+    .tick.draw path { animation: draw .5s ease-out .1s both; }
+    @keyframes draw { from { stroke-dashoffset: 60; } }
+    @media (prefers-reduced-motion: reduce) { .tick.draw path { animation: none; } }
+
+    details summary { cursor: pointer; list-style: none; }
+    details summary .toggle { text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+    details summary:focus-visible { outline: none; }
+    details summary:focus-visible .toggle { outline: 2px solid var(--margin); outline-offset: 2px; }
+    details summary::-webkit-details-marker { display: none; }
+    .past .en { color: var(--pencil); }
+
+    @media (max-width: 600px) {
+      :root { --gutter: 64px; }
+      body { padding-right: 16px; font-size: 17px; }
+      .note { font-size: 13px; padding-right: 8px; }
+      .weekday { display: none; }
+      .text { padding-left: 12px; }
+      .word { font-size: 46px; line-height: calc(var(--line) * 2); }
+      .word.small { font-size: 34px; }
+      .meaning { font-size: 19px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="row masthead">
+    <span class="note"></span>
+    <div class="text"><span class="title">Urdu word of the day</span><time id="date"></time></div>
+  </header>
+  <div class="gap"></div>
+  <main id="app"><div class="row"><span class="note"></span><p class="text">Opening today's page…</p></div></main>
+
+  <script>
+    const app = document.getElementById("app");
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    const row = (note, html, cls = "") => `<div class="row ${cls}"><span class="note">${note}</span><div class="text">${html}</div></div>`;
+    const gap = '<div class="gap"></div>';
+    const shortDate = (d) => new Date(d + "T12:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+
+    const examples = (list) => `<ol class="examples">${list.map((s) => `
+      <li><p>${esc(s.roman)}</p><p class="en">${esc(s.english)}</p></li>`).join("")}</ol>`;
+
+    const tick = (animate) => `<svg class="tick ${animate ? "draw" : ""}" viewBox="0 0 40 32" aria-label="Done"><path d="M6 17 L15 25 L34 6"/></svg>`;
+
+    function todaySection(word) {
+      return `<section id="today">
+        ${row("", `<h1 class="word">${esc(word.roman)}</h1>`)}
+        ${row("", `<p class="meaning">${esc(word.english)}</p>`)}
+        ${gap}
+        ${row("", examples(word.sentences))}
+        ${row("", `<button type="button" id="toggle-en">Hide English</button>`)}
+      </section>`;
+    }
+
+    function practiceSection(review, practiced, justSaved) {
+      if (!review) return "";
+      const head = `
+        ${gap}${gap}
+        ${row("", `<h2>Use this word in two sentences of your own</h2>`)}
+        ${row("", `<p class="word small">${esc(review.roman)}</p>`)}
+        ${row("", `<p class="meaning">${esc(review.english)}</p>`)}
+        ${gap}`;
+      if (practiced) {
+        return `<section>${head}
+          ${row(tick(justSaved), `<p class="mine">${esc(practiced.sentence1)}</p><p class="mine">${esc(practiced.sentence2)}</p>`)}
+          ${gap}
+          ${row("", `<h2>How it's used in the examples</h2>`)}
+          ${row("", examples(review.sentences || []))}
+        </section>`;
+      }
+      return `<section>${head}
+        <form id="practice">
+          ${row("", `<label class="sr-only" for="s1">Sentence 1</label><textarea id="s1" maxlength="500" placeholder="Write in Roman Urdu"></textarea>`)}
+          ${row("", `<label class="sr-only" for="s2">Sentence 2</label><textarea id="s2" maxlength="500"></textarea>`)}
+          ${row("", `<button class="save" type="submit">Save my sentences</button>`)}
+          ${row("", `<p class="error" id="err" role="alert"></p>`)}
+        </form>
+      </section>`;
+    }
+
+    function pastSection(items, todayDate) {
+      const past = items.filter((d) => d.date !== todayDate);
+      if (!past.length) return "";
+      return `<section>${gap}
+        <details>
+          <summary class="row"><span class="note"></span><span class="text"><span class="toggle">Earlier words (${past.length})</span></span></summary>
+          <ul class="past" style="list-style:none;padding:0">
+            ${past.map((d) => `<li>${row("", `${esc(d.word.roman)} <span class="en">${esc(d.word.english)}, ${esc(shortDate(d.date))}</span>`)}</li>`).join("")}
+          </ul>
+        </details>
+      </section>`;
+    }
+
+    async function load() {
+      try {
+        const [todayRes, histRes] = await Promise.all([fetch("/api/today"), fetch("/api/history")]);
+        const data = await todayRes.json();
+        if (!todayRes.ok) throw new Error(data.error || "Today's word didn't load.");
+        const history = histRes.ok ? await histRes.json() : [];
+        const reviewDay = history.find((d) => data.review && d.word.roman === data.review.roman);
+        if (data.review && reviewDay) data.review.date = reviewDay.date;
+        render(data, history, false);
+      } catch (e) {
+        app.innerHTML = row("", `<p class="error">${esc(e.message)} Refresh the page to try again.</p>`);
+      }
+    }
+
+    function render(data, history, justSaved) {
+      const d = new Date(data.date + "T12:00:00");
+      document.getElementById("date").innerHTML =
+        `<span class="weekday">${d.toLocaleDateString("en-GB", { weekday: "long" })} </span>${d.toLocaleDateString("en-GB", { day: "numeric", month: "long" })}`;
+      app.innerHTML = todaySection(data.word) + practiceSection(data.review, data.practiced, justSaved) + pastSection(history, data.date);
+
+      const toggle = document.getElementById("toggle-en");
+      const today = document.getElementById("today");
+      toggle.onclick = () => {
+        const hidden = today.classList.toggle("hide-en");
+        toggle.textContent = hidden ? "Show English" : "Hide English";
+      };
+
+      const form = document.getElementById("practice");
+      if (!form) return;
+      form.onsubmit = async (ev) => {
+        ev.preventDefault();
+        const err = document.getElementById("err");
+        const s1 = form.s1.value.trim(), s2 = form.s2.value.trim();
+        if (!s1 || !s2) { err.textContent = "Write both sentences before saving."; return; }
+        const btn = form.querySelector("button");
+        btn.disabled = true;
+        try {
+          const res = await fetch("/api/practice", {
+            method: "POST",
+            headers: { "content-type": "application/json" },
+            body: JSON.stringify({ sentence1: s1, sentence2: s2 }),
+          });
+          const out = await res.json();
+          if (!res.ok) throw new Error(out.error || "Your sentences weren't saved.");
+          render({ ...data, review: { ...data.review, ...out.review }, practiced: out.practiced }, history, true);
+        } catch (e) {
+          err.textContent = e.message;
+          btn.disabled = false;
+        }
+      };
+    }
+
+    load();
+  </script>
+</body>
+</html>

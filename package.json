@@ -1,0 +1,14 @@
+{
+  "name": "urdu-word-of-the-day",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "db:migrate:local": "wrangler d1 migrations apply urdu-words --local",
+    "db:migrate:remote": "wrangler d1 migrations apply urdu-words --remote"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

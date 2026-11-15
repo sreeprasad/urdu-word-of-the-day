@@ -1,0 +1,18 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "urdu-word-of-the-day",
+	"main": "src/index.js",
+	"compatibility_date": "2026-10-01",
+	"assets": {
+		"directory": "./public",
+		"binding": "ASSETS"
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "urdu-words",
+			"database_id": "92ce796c-865a-45ca-ab35-fafe689b82c6",
+			"migrations_dir": "migrations"
+		}
+	]
+}
