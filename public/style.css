@@ -1,0 +1,147 @@
+@font-face { font-family: "Rozha One"; src: url(/fonts/rozha-one-latin-400-normal.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: Hind; src: url(/fonts/hind-latin-400-normal.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: Hind; src: url(/fonts/hind-latin-500-normal.woff2) format("woff2"); font-weight: 500; font-display: swap; }
+@font-face { font-family: Hind; src: url(/fonts/hind-latin-600-normal.woff2) format("woff2"); font-weight: 600; font-display: swap; }
+
+:root {
+  --paper: #e4eadf;
+  --rule: #afc0da;
+  --margin: #c23b2e;
+  --ink: #1c2b5e;
+  --pencil: #646b73;
+  --line: 32px;              /* one ruled line */
+  --gutter: 120px;           /* width of the margin column */
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1d2330;
+    --rule: #303c55;
+    --margin: #d4594b;
+    --ink: #dfe6f3;
+    --pencil: #98a1ad;
+  }
+}
+
+* { box-sizing: border-box; }
+html { background: var(--paper); }
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  font: 400 18px/var(--line) Hind, system-ui, sans-serif;
+  /* Ruled lines + the red margin line, like a school copy-book. */
+  background:
+    linear-gradient(to right, transparent calc(var(--gutter) - 2px), var(--margin) calc(var(--gutter) - 2px), var(--margin) var(--gutter), transparent var(--gutter)),
+    repeating-linear-gradient(to bottom, transparent 0, transparent calc(var(--line) - 1px), var(--rule) calc(var(--line) - 1px), var(--rule) var(--line));
+  background-attachment: local;
+  padding: calc(var(--line) * 2) 24px calc(var(--line) * 4) 0;
+}
+
+/* Each row: an empty margin cell on the left, writing on the right. */
+.row {
+  display: grid;
+  grid-template-columns: var(--gutter) minmax(0, 640px);
+  align-items: start;
+}
+.note { grid-column: 1; padding-right: 14px; white-space: nowrap; }
+.text { grid-column: 2; padding-left: 20px; }
+
+p, h1, h2, ol, ul { margin: 0; }
+a { color: var(--ink); text-decoration-thickness: 1px; text-underline-offset: 4px; }
+
+.masthead .text { display: flex; justify-content: space-between; gap: 16px; }
+.masthead .title { font-weight: 600; text-decoration: none; }
+.masthead time, .masthead .side { color: var(--pencil); white-space: nowrap; }
+
+.gap { height: var(--line); }
+
+.word {
+  font: 400 72px/calc(var(--line) * 3) "Rozha One", Georgia, serif;
+  letter-spacing: -0.01em;
+  overflow-wrap: anywhere;
+}
+.word.small { font-size: 44px; line-height: calc(var(--line) * 2); }
+.meaning { font-size: 21px; }
+
+.examples { list-style: none; padding: 0; }
+.examples li { margin-bottom: var(--line); }
+.examples .en { color: var(--pencil); }
+.hide-en .examples .en { visibility: hidden; }
+
+h2 { font: 600 18px/var(--line) Hind, sans-serif; }
+.muted { color: var(--pencil); }
+
+button {
+  font: 500 16px/1 Hind, sans-serif;
+  color: var(--ink);
+  background: none;
+  border: 0;
+  padding: 0;
+  height: var(--line);
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+}
+button.save {
+  text-decoration: none;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0 18px;
+  border-radius: 2px;
+  height: calc(var(--line) - 4px);
+  margin-top: 2px;
+}
+button:disabled { opacity: .5; cursor: wait; }
+button:focus-visible, textarea:focus-visible, input:focus-visible, a:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--margin); outline-offset: 2px;
+}
+
+/* Writing directly on the ruled lines. */
+textarea, input[type="email"] {
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font: 400 20px/var(--line) Hind, sans-serif;
+}
+textarea { height: calc(var(--line) * 2); resize: none; }
+input[type="email"] { height: var(--line); }
+textarea::placeholder, input::placeholder { color: var(--pencil); opacity: .7; }
+.mine { font-size: 20px; }
+.error { color: var(--margin); }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.hp { position: absolute; left: -9999px; }
+
+.inline-form { display: flex; gap: 16px; align-items: start; }
+.inline-form input { flex: 1; min-width: 0; }
+
+.tick { width: 40px; height: var(--line); margin-left: auto; display: block; }
+.tick path {
+  fill: none; stroke: var(--margin); stroke-width: 3.5; stroke-linecap: round; stroke-linejoin: round;
+  stroke-dasharray: 60; stroke-dashoffset: 0;
+}
+.tick.draw path { animation: draw .5s ease-out .1s both; }
+@keyframes draw { from { stroke-dashoffset: 60; } }
+@media (prefers-reduced-motion: reduce) { .tick.draw path { animation: none; } }
+
+/* Archive */
+.entry summary { cursor: pointer; list-style: none; }
+.entry summary::-webkit-details-marker { display: none; }
+.entry .day { color: var(--pencil); }
+.entry .word.small { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 8px; }
+.entry[open] .word.small { text-decoration: none; }
+
+@media (max-width: 600px) {
+  :root { --gutter: 40px; }
+  body { padding-right: 16px; font-size: 17px; }
+  .text { padding-left: 12px; }
+  .weekday { display: none; }
+  .word { font-size: 46px; line-height: calc(var(--line) * 2); }
+  .word.small { font-size: 34px; }
+  .meaning { font-size: 19px; }
+  .inline-form { flex-direction: column; gap: 0; }
+}

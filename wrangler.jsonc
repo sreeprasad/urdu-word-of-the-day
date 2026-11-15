@@ -14,5 +14,14 @@
 			"database_id": "92ce796c-865a-45ca-ab35-fafe689b82c6",
 			"migrations_dir": "migrations"
 		}
-	]
+	],
+	// Daily email at 15:07 UTC = 7:07 a.m. Pacific in winter (8:07 a.m. in summer).
+	"triggers": {
+		"crons": ["7 15 * * *"]
+	},
+	"vars": {
+		"SITE_URL": "https://urdu-word-of-the-day.sreeprasad-sp.workers.dev",
+		"MAIL_FROM": "Urdu word of the day <word@REPLACE_WITH_YOUR_SENDING_DOMAIN>"
+	}
+	// RESEND_API_KEY is a secret: set it with `npx wrangler secret put RESEND_API_KEY`
 }

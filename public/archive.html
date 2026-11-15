@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Past words · Urdu word of the day</title>
+  <meta name="description" content="Every Urdu word of the day so far, with example sentences." />
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header class="row masthead">
+    <span class="note"></span>
+    <div class="text"><a class="title" href="/">Urdu word of the day</a><span class="side">Past words</span></div>
+  </header>
+  <div class="gap"></div>
+  <main id="app"><div class="row"><span class="note"></span><p class="text">Opening the archive…</p></div></main>
+
+  <script>
+    const app = document.getElementById("app");
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    const row = (html) => `<div class="row"><span class="note"></span><div class="text">${html}</div></div>`;
+    const gap = '<div class="gap"></div>';
+    const longDate = (d) => new Date(d + "T12:00:00").toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+
+    const examples = (list) => `<ol class="examples">${list.map((s) => `
+      <li><p>${esc(s.roman)}</p><p class="en">${esc(s.english)}</p></li>`).join("")}</ol>`;
+
+    async function load() {
+      try {
+        const res = await fetch("/api/archive");
+        const out = await res.json();
+        if (!res.ok) throw new Error(out.error || "The archive didn't load.");
+        if (!out.days.length) {
+          app.innerHTML = row(`<p>No words yet. <a href="/">See today's word</a>.</p>`);
+          return;
+        }
+        app.innerHTML = out.days.map((d) => `
+          <details class="entry">
+            <summary>
+              ${row(`<p class="day">${esc(longDate(d.date))}</p>`)}
+              ${row(`<p class="word small">${esc(d.word.roman)}</p>`)}
+              ${row(`<p class="meaning">${esc(d.word.english)}</p>`)}
+            </summary>
+            ${gap}
+            ${row(examples(d.word.sentences || []))}
+          </details>
+          ${gap}`).join("") + row(`<a href="/">Back to today's word</a>`);
+      } catch (e) {
+        app.innerHTML = row(`<p class="error">${esc(e.message)} Refresh the page to try again.</p>`);
+      }
+    }
+    load();
+  </script>
+  <!-- Cloudflare Web Analytics --><script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "b5a76f517e3d4b2cb45fa59f130ca17e"}'></script><!-- End Cloudflare Web Analytics -->
+</body>
+</html>
