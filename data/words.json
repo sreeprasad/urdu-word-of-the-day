@@ -17,7 +17,8 @@
         "roman": "Shab-e-gham ka iztiraab sirf wahi samajh sakte hain jo juda hue hon.",
         "english": "Only those who have been separated can comprehend the anguish of a night of sorrow."
       }
-    ]
+    ],
+    "urdu": "اضطراب"
   },
   {
     "id": 2,
@@ -37,7 +38,8 @@
         "roman": "Ghar ke aman ki khatir usne apni maslehat ko qurban kar diya.",
         "english": "For the sake of home peace, he sacrificed his own practical considerations."
       }
-    ]
+    ],
+    "urdu": "مصلحت"
   },
   {
     "id": 3,
@@ -57,7 +59,8 @@
         "roman": "Uske chehre par chaaya tazabzub dekh kar main ne madad ki peshkash ki.",
         "english": "Seeing the hesitation across his face, I offered to help."
       }
-    ]
+    ],
+    "urdu": "تذبذب"
   },
   {
     "id": 4,
@@ -77,7 +80,8 @@
         "roman": "Nayi policy se tijarat ko kaafi had tak istehkaam mila hai.",
         "english": "The new policy has provided substantial stability to trade."
       }
-    ]
+    ],
+    "urdu": "استحکام"
   },
   {
     "id": 5,
@@ -97,7 +101,8 @@
         "roman": "Mughal saltanat ka aakhiri daur taizi se inhitaat ki taraf barha.",
         "english": "The final period of the Mughal empire moved swiftly towards decadence."
       }
-    ]
+    ],
+    "urdu": "انحطاط"
   },
   {
     "id": 6,
@@ -117,7 +122,8 @@
         "roman": "Ikhtilaaf ke bawajood unhon ne mil kar kaam mukammal kiya.",
         "english": "Despite the disagreement, they finished the work together."
       }
-    ]
+    ],
+    "urdu": "اختلاف"
   },
   {
     "id": 7,
@@ -137,7 +143,8 @@
         "roman": "Musalman mumalik ke darmiyan ittehaad waqt ki ahem zaroorat hai.",
         "english": "Unity among Muslim countries is an important need of the hour."
       }
-    ]
+    ],
+    "urdu": "اتحاد"
   },
   {
     "id": 8,
@@ -157,7 +164,8 @@
         "roman": "Police ne foran pohnch kar intishaar par qaabu pa liya.",
         "english": "The police arrived immediately and brought the chaos under control."
       }
-    ]
+    ],
+    "urdu": "انتشار"
   },
   {
     "id": 9,
@@ -177,7 +185,8 @@
         "roman": "Talba ne feeson mein izaafay par shadeed ehtijaaj kiya.",
         "english": "The students strongly protested against the hike in tuition fees."
       }
-    ]
+    ],
+    "urdu": "احتجاج"
   },
   {
     "id": 10,
@@ -197,7 +206,8 @@
         "roman": "Muzaakaraat ki nakami ke baad kashidagi mazeed barh gayi.",
         "english": "Following the failure of the negotiations, tensions increased further."
       }
-    ]
+    ],
+    "urdu": "مذاکرات"
   },
   {
     "id": 11,
@@ -217,7 +227,8 @@
         "roman": "Kiraaye ka muaahida khatam hone par unhein makaan khali karna para.",
         "english": "When the rental agreement expired, they had to vacate the house."
       }
-    ]
+    ],
+    "urdu": "معاہدہ"
   },
   {
     "id": 12,
@@ -237,7 +248,8 @@
         "roman": "Yeh qaanoon saazi aainda nasal ke huqooq ki zamaanat deti hai.",
         "english": "This legislation guarantees the rights of future generations."
       }
-    ]
+    ],
+    "urdu": "قانون سازی"
   },
   {
     "id": 13,
@@ -257,7 +269,8 @@
         "roman": "Adliya ne faisla sunate hue aaeen ki balaadasti ko barqaraar rakha.",
         "english": "In announcing the verdict, the judiciary upheld the supremacy of the constitution."
       }
-    ]
+    ],
+    "urdu": "عدلیہ"
   },
   {
     "id": 14,
@@ -277,7 +290,8 @@
         "roman": "Naye bill par behas ke dauran muqannina mein kafi hangama hua.",
         "english": "During the debate on the new bill, there was quite a commotion in the legislature."
       }
-    ]
+    ],
+    "urdu": "مقننہ"
   },
   {
     "id": 15,
@@ -297,7 +311,8 @@
         "roman": "Intezaamiya ki sust-ravi ki wajah se mansooba taakheer ka shikar hua.",
         "english": "Due to the administration's sluggishness, the project suffered delays."
       }
-    ]
+    ],
+    "urdu": "انتظامیہ"
   },
   {
     "id": 16,
@@ -317,7 +332,8 @@
         "roman": "Aaeen ki hifazat karna har muhibb-e-watan shehri ka farz hai.",
         "english": "Protecting the constitution is the duty of every patriotic citizen."
       }
-    ]
+    ],
+    "urdu": "آئین"
   },
   {
     "id": 17,
@@ -337,7 +353,8 @@
         "roman": "Fouj ne dushman ko shikast dene ke liye makhsoos hikmat-e-amli tayyar ki.",
         "english": "The army devised a specific strategy to defeat the enemy."
       }
-    ]
+    ],
+    "urdu": "حکمت عملی"
   },
   {
     "id": 18,
@@ -357,7 +374,8 @@
         "roman": "Meri tarjeeh hamesha mayaar rahi hai, miqdaar nahi.",
         "english": "My priority has always been quality, not quantity."
       }
-    ]
+    ],
+    "urdu": "ترجیح"
   },
   {
     "id": 19,
@@ -377,7 +395,8 @@
         "roman": "Is tehqeeqi report ka aakhiri tajziya kal pesh kiya jayega.",
         "english": "The final analysis of this research report will be presented tomorrow."
       }
-    ]
+    ],
+    "urdu": "تجزیہ"
   },
   {
     "id": 20,
@@ -397,7 +416,8 @@
         "roman": "University mein scienci tahqeeq ke liye behtareen sahuliyat mojood hain.",
         "english": "Excellent facilities are available for scientific research at the university."
       }
-    ]
+    ],
+    "urdu": "تحقیق"
   },
   {
     "id": 21,
@@ -417,7 +437,8 @@
         "roman": "Shaayar ne muashray ki be-hissi par shadeed tanqeed ki hai.",
         "english": "The poet has severely criticized the society's apathy."
       }
-    ]
+    ],
+    "urdu": "تنقید"
   },
   {
     "id": 22,
@@ -437,7 +458,8 @@
         "roman": "Kisi ki zaat par bura tabsira karna ikhlaq ke khilaaf hai.",
         "english": "Making malicious commentary on someone's character is against ethics."
       }
-    ]
+    ],
+    "urdu": "تبصرہ"
   },
   {
     "id": 23,
@@ -457,7 +479,8 @@
         "roman": "Unhon ne mashhoor taqreer ka iqtibaas pesh kar ke baat wazeh ki.",
         "english": "He clarified his point by presenting an excerpt from the famous speech."
       }
-    ]
+    ],
+    "urdu": "اقتباس"
   },
   {
     "id": 24,
@@ -477,7 +500,8 @@
         "roman": "Tahqeeq ke aakhir mein unka qadeem mafrooza ghalat saabit hua.",
         "english": "At the conclusion of the research, their old hypothesis proved to be incorrect."
       }
-    ]
+    ],
+    "urdu": "مفروضہ"
   },
   {
     "id": 25,
@@ -497,7 +521,8 @@
         "roman": "Us falsafi ka nazariya samajhna aam logon ke bas ki baat nahi.",
         "english": "Understanding that philosopher's theory is beyond the grasp of ordinary people."
       }
-    ]
+    ],
+    "urdu": "نظریہ"
   },
   {
     "id": 26,
@@ -517,7 +542,8 @@
         "roman": "Us ki shaeri mein ishq ka ek anokha tasawwur milta hai.",
         "english": "A unique imagination of love is found in his poetry."
       }
-    ]
+    ],
+    "urdu": "تصور"
   },
   {
     "id": 27,
@@ -537,7 +563,8 @@
         "roman": "Is qanoon ke maashi muzmiraat awam par asar andaaz honge.",
         "english": "The economic implications of this law will affect the public."
       }
-    ]
+    ],
+    "urdu": "مضمرات"
   },
   {
     "id": 28,
@@ -557,7 +584,8 @@
         "roman": "Zindagi ki pecheedgi se ghabra kar faisla mat lo.",
         "english": "Do not make a decision panic-stricken by life's complexity."
       }
-    ]
+    ],
+    "urdu": "پیچیدگی"
   },
   {
     "id": 29,
@@ -577,7 +605,8 @@
         "roman": "Shayar ne ibhaam ka sahara le kar baat kahi.",
         "english": "The poet conveyed his point using ambiguity."
       }
-    ]
+    ],
+    "urdu": "ابہام"
   },
   {
     "id": 30,
@@ -597,7 +626,8 @@
         "roman": "Unhone wazaahat ki ke un ka maqsad kisi ko dukh dena nahi tha.",
         "english": "They clarified that their intention was not to hurt anyone."
       }
-    ]
+    ],
+    "urdu": "وضاحت"
   },
   {
     "id": 31,
@@ -617,7 +647,8 @@
         "roman": "Yeh nazariya jadeed science se tazaad rakhta hai.",
         "english": "This theory is in contradiction with modern science."
       }
-    ]
+    ],
+    "urdu": "تضاد"
   },
   {
     "id": 32,
@@ -637,7 +668,8 @@
         "roman": "Un ke rawaiyyon mein ajeeb mumaasilat dekh kar sab hairan hue.",
         "english": "Everyone was surprised seeing the strange resemblance in their attitudes."
       }
-    ]
+    ],
+    "urdu": "مماثلت"
   },
   {
     "id": 33,
@@ -657,7 +689,8 @@
         "roman": "Nasal aur rang ki bunyaad par imtiyaaz barasna ghalat hai.",
         "english": "Practicing discrimination on the basis of race and color is wrong."
       }
-    ]
+    ],
+    "urdu": "امتیاز"
   },
   {
     "id": 34,
@@ -677,7 +710,8 @@
         "roman": "Khas halaat mein is shart se istisna diya ja sakta hai.",
         "english": "An exception can be granted from this condition in special circumstances."
       }
-    ]
+    ],
+    "urdu": "استثنا"
   },
   {
     "id": 35,
@@ -697,7 +731,8 @@
         "roman": "Us ne batadreej company mein apna maqam banaya.",
         "english": "He gradually made his mark in the company."
       }
-    ]
+    ],
+    "urdu": "بتدریج"
   },
   {
     "id": 36,
@@ -717,7 +752,8 @@
         "roman": "Bil-aakhir hum apni manzil tak pahunch hi gaye.",
         "english": "Eventually, we did reach our destination."
       }
-    ]
+    ],
+    "urdu": "بالآخر"
   },
   {
     "id": 37,
@@ -737,7 +773,8 @@
         "roman": "Us ka rawaiyya bazaahir bada dostana mehsoos hota hai.",
         "english": "His behavior apparently feels very friendly."
       }
-    ]
+    ],
+    "urdu": "بظاہر"
   },
   {
     "id": 38,
@@ -757,7 +794,8 @@
         "roman": "Kuch bhi ho jaye, beharhaal sach ka sath dena chahiye.",
         "english": "Whatever happens, in any case one should stand by the truth."
       }
-    ]
+    ],
+    "urdu": "بہرحال"
   },
   {
     "id": 39,
@@ -777,7 +815,8 @@
         "roman": "Shehr mein traffic ka nizam badastoor bura hai.",
         "english": "The traffic system in the city is still bad."
       }
-    ]
+    ],
+    "urdu": "بدستور"
   },
   {
     "id": 40,
@@ -797,7 +836,8 @@
         "roman": "Darhaqeeqat ghalti kisi ek ki nahi, sab ki thi.",
         "english": "In reality, the mistake did not belong to one person, but everyone."
       }
-    ]
+    ],
+    "urdu": "درحقیقت"
   },
   {
     "id": 41,
@@ -817,7 +857,8 @@
         "roman": "Is musalsal shor ki wajah se sar mein dard ho gaya.",
         "english": "A headache started due to this continuous noise."
       }
-    ]
+    ],
+    "urdu": "مسلسل"
   },
   {
     "id": 42,
@@ -837,7 +878,8 @@
         "roman": "Dunya mein koi bhi cheez mustaqil nahi hai.",
         "english": "Nothing in this world is permanent."
       }
-    ]
+    ],
+    "urdu": "مستقل"
   },
   {
     "id": 43,
@@ -857,7 +899,8 @@
         "roman": "Aarzi faiday ke liye mustaqil nuqsan mat uthao.",
         "english": "Do not incur a permanent loss for a temporary gain."
       }
-    ]
+    ],
+    "urdu": "عارضی"
   },
   {
     "id": 44,
@@ -877,7 +920,8 @@
         "roman": "Halaat aisi simt chale gaye ke jung naaguzeer ho gayi.",
         "english": "Circumstances went in such a direction that war became inevitable."
       }
-    ]
+    ],
+    "urdu": "ناگزیر"
   },
   {
     "id": 45,
@@ -897,7 +941,8 @@
         "roman": "Har shakhs ke liye qawaneen ki pabandi laazmi hai.",
         "english": "Observance of rules is compulsory for every person."
       }
-    ]
+    ],
+    "urdu": "لازمی"
   },
   {
     "id": 46,
@@ -917,7 +962,8 @@
         "roman": "Yeh faisla ghair mutawaqqa tha magar behtareen nikla.",
         "english": "This decision was unexpected, but turned out to be the best."
       }
-    ]
+    ],
+    "urdu": "غیر متوقع"
   },
   {
     "id": 47,
@@ -937,7 +983,8 @@
         "roman": "Mubham baatein karne ke bajaye saaf baat karo.",
         "english": "Instead of speaking vaguely, speak clearly."
       }
-    ]
+    ],
+    "urdu": "مبہم"
   },
   {
     "id": 48,
@@ -957,7 +1004,8 @@
         "roman": "Us ne sab ke samne waazeh bayaan diya.",
         "english": "He gave a clear statement in front of everyone."
       }
-    ]
+    ],
+    "urdu": "واضح"
   },
   {
     "id": 49,
@@ -977,7 +1025,8 @@
         "roman": "Hum ne mansoobay ke liye ek jaame hikmat-e-amli banayi.",
         "english": "We made a comprehensive strategy for the project."
       }
-    ]
+    ],
+    "urdu": "جامع"
   },
   {
     "id": 50,
@@ -997,7 +1046,8 @@
         "roman": "Faisla karne ke liye yeh waqt mauzoon nahi hai.",
         "english": "This time is not suitable for making a decision."
       }
-    ]
+    ],
+    "urdu": "موزوں"
   },
   {
     "id": 51,
@@ -1017,7 +1067,8 @@
         "roman": "Unki taqreer itni muassir thi ke sab log mutaasir ho gaye.",
         "english": "His speech was so effective that everyone was deeply moved."
       }
-    ]
+    ],
+    "urdu": "مؤثر"
   },
   {
     "id": 52,
@@ -1037,7 +1088,8 @@
         "roman": "Itni kam umar mein itna bara kaarnama naaqaabil-e-yaqeen lagta hai.",
         "english": "Achieving such a big feat at such a young age feels unbelievable."
       }
-    ]
+    ],
+    "urdu": "ناقابل یقین"
   },
   {
     "id": 53,
@@ -1057,7 +1109,8 @@
         "roman": "Dono mulkon ke darmiyan bemisaal dosti ki misaal di jaati hai.",
         "english": "The friendship between both nations is cited as an unparalleled example."
       }
-    ]
+    ],
+    "urdu": "بے مثال"
   },
   {
     "id": 54,
@@ -1077,7 +1130,8 @@
         "roman": "Siyasi ikhtilaafaat par baat karne se log aam tor par gurez karte hain.",
         "english": "People usually avoid speaking about political disagreements."
       }
-    ]
+    ],
+    "urdu": "گریز"
   },
   {
     "id": 55,
@@ -1097,7 +1151,8 @@
         "roman": "Aam aawam ko afwaahein phailaane se sakhti se ijtinaab karna chahiye.",
         "english": "The general public must strictly refrain from spreading rumors."
       }
-    ]
+    ],
+    "urdu": "اجتناب"
   },
   {
     "id": 56,
@@ -1117,7 +1172,8 @@
         "roman": "Aap ko is mamle mein bilkul tashweesh karne ki zaroorat nahi.",
         "english": "You do not need to worry at all regarding this matter."
       }
-    ]
+    ],
+    "urdu": "تشویش"
   },
   {
     "id": 57,
@@ -1137,7 +1193,8 @@
         "roman": "Usne bare itmeenaan ke sath saare sawalaat ke jawabaat diye.",
         "english": "He answered all the questions with great composure."
       }
-    ]
+    ],
+    "urdu": "اطمینان"
   },
   {
     "id": 58,
@@ -1157,7 +1214,8 @@
         "roman": "Lasaani taassub muashre ko andar se khokhla kar deta hai.",
         "english": "Linguistic prejudice hollows out society from within."
       }
-    ]
+    ],
+    "urdu": "تعصب"
   },
   {
     "id": 59,
@@ -1177,7 +1235,8 @@
         "roman": "Muashre mein ikhtilaaf-e-raaye ko bardasht karna hi asal rawaadaari hai.",
         "english": "Tolerating differences of opinion in society is true tolerance."
       }
-    ]
+    ],
+    "urdu": "رواداری"
   },
   {
     "id": 60,
@@ -1197,7 +1256,8 @@
         "roman": "Uski guftagu mein gehri inkisaari jhalakti thi.",
         "english": "Deep humility was reflected in his conversation."
       }
-    ]
+    ],
+    "urdu": "انکساری"
   },
   {
     "id": 61,
@@ -1217,7 +1277,8 @@
         "roman": "Uske lehje se wazeh tor par takabbur jhalak raha tha.",
         "english": "Arrogance was clearly dripping from his tone."
       }
-    ]
+    ],
+    "urdu": "تکبر"
   },
   {
     "id": 62,
@@ -1237,7 +1298,8 @@
         "roman": "Mujhe uski khuddaari aur mehnati tabiyat hamesha pasand aayi.",
         "english": "I always admired his self-respect and hardworking nature."
       }
-    ]
+    ],
+    "urdu": "خودداری"
   },
   {
     "id": 63,
@@ -1257,7 +1319,8 @@
         "roman": "Munaafiqat se behtar hai ke insaan sach bol kar naraz kar de.",
         "english": "It is better to anger someone with truth than through hypocrisy."
       }
-    ]
+    ],
+    "urdu": "منافقت"
   },
   {
     "id": 64,
@@ -1277,7 +1340,8 @@
         "roman": "Woh saaf dil shakhs tha aur riyaakaari se sakht nafrat karta tha.",
         "english": "He was a pure-hearted person and despised pretense intensely."
       }
-    ]
+    ],
+    "urdu": "ریاکاری"
   },
   {
     "id": 65,
@@ -1297,7 +1361,8 @@
         "roman": "Sachha dost khushaamad ke bajaye khamiyon par roshni daalta hai.",
         "english": "A true friend sheds light on shortcomings rather than flattering."
       }
-    ]
+    ],
+    "urdu": "خوشامد"
   },
   {
     "id": 66,
@@ -1317,7 +1382,8 @@
         "roman": "Muashre se bad-unwaani door kiye baghair taraqqi namumkin hai.",
         "english": "Development is impossible without removing corruption from society."
       }
-    ]
+    ],
+    "urdu": "بدعنوانی"
   },
   {
     "id": 67,
@@ -1337,7 +1403,8 @@
         "roman": "Har sarburaah ko aakhirat mein apne aamaal ka ehtisaab dena hoga.",
         "english": "Every leader will have to give accountability for their actions in the hereafter."
       }
-    ]
+    ],
+    "urdu": "احتساب"
   },
   {
     "id": 68,
@@ -1357,7 +1424,8 @@
         "roman": "Awaam qanoon nafiz karne wale idaron mein shaffaafiyat chahti hai.",
         "english": "The public demands transparency in law enforcement institutions."
       }
-    ]
+    ],
+    "urdu": "شفافیت"
   },
   {
     "id": 69,
@@ -1377,7 +1445,8 @@
         "roman": "Aalmi halaat ka asar hamari maeeshat par wazeh tor par dikh raha hai.",
         "english": "The impact of global conditions is clearly visible on our economy."
       }
-    ]
+    ],
+    "urdu": "معیشت"
   },
   {
     "id": 70,
@@ -1397,7 +1466,8 @@
         "roman": "Ifraat-e-zar ne ghareeb tabqe ki kamar tor kar rakh di hai.",
         "english": "Inflation has broken the back of the poor class."
       }
-    ]
+    ],
+    "urdu": "افراط زر"
   },
   {
     "id": 71,
@@ -1417,7 +1487,8 @@
         "roman": "Naye mansoobon mein sarmaaya kaari karne se pehle market ka tajziya zaroori hai.",
         "english": "Market analysis is necessary before making investment in new projects."
       }
-    ]
+    ],
+    "urdu": "سرمایہ کاری"
   },
   {
     "id": 72,
@@ -1437,7 +1508,8 @@
         "roman": "Fasal kharaab hone par kisaanon ko bepanah khasaara hua.",
         "english": "When crops got damaged, the farmers suffered enormous loss."
       }
-    ]
+    ],
+    "urdu": "خسارہ"
   },
   {
     "id": 73,
@@ -1457,7 +1529,8 @@
         "roman": "Be-ja munaafa khori awam par bojh barha deti hai.",
         "english": "Excessive profiteering increases the burden on the public."
       }
-    ]
+    ],
+    "urdu": "منافع"
   },
   {
     "id": 74,
@@ -1477,7 +1550,8 @@
         "roman": "Ghair yaqeeni halaat ne mulk mein aaeeni bohraan paida kar diya.",
         "english": "Uncertain conditions created a constitutional crisis in the country."
       }
-    ]
+    ],
+    "urdu": "بحران"
   },
   {
     "id": 75,
@@ -1497,7 +1571,8 @@
         "roman": "Intizaamiya ne security behtar banane ke liye muassir iqdaam kiya.",
         "english": "The administration took an effective step to improve security."
       }
-    ]
+    ],
+    "urdu": "اقدام"
   },
   {
     "id": 76,
@@ -1517,7 +1592,8 @@
         "roman": "Policy ka nifaaz aasan kaam nahi hai.",
         "english": "The implementation of the policy is not an easy task."
       }
-    ]
+    ],
+    "urdu": "نفاذ"
   },
   {
     "id": 77,
@@ -1537,7 +1613,8 @@
         "roman": "Is musawwada mein kuch ahem tarmeemat ki zaroorat hai.",
         "english": "Some important amendments are needed in this draft."
       }
-    ]
+    ],
+    "urdu": "مسودہ"
   },
   {
     "id": 78,
@@ -1557,7 +1634,8 @@
         "roman": "Summit ke baad sardaaron ne ahem elaamiya par dastakhat kiye.",
         "english": "After the summit, the leaders signed an important declaration."
       }
-    ]
+    ],
+    "urdu": "اعلامیہ"
   },
   {
     "id": 79,
@@ -1577,7 +1655,8 @@
         "roman": "Tareekh is baat ki gawaahi deti hai keh mehnat zaya nahi hoti.",
         "english": "History bears testimony that hard work never goes in vain."
       }
-    ]
+    ],
+    "urdu": "گواہی"
   },
   {
     "id": 80,
@@ -1597,7 +1676,8 @@
         "roman": "Munsifana tafteesh se hi haqeeqat saamne aayegi.",
         "english": "Only a fair investigation will bring the truth to light."
       }
-    ]
+    ],
+    "urdu": "تفتیش"
   },
   {
     "id": 81,
@@ -1617,7 +1697,8 @@
         "roman": "Camera footage ne us ki begunahi ka suboot faraham kiya.",
         "english": "The camera footage provided proof of his innocence."
       }
-    ]
+    ],
+    "urdu": "ثبوت"
   },
   {
     "id": 82,
@@ -1637,7 +1718,8 @@
         "roman": "Yeh muqaddama saalon tak adalat mein zair-e-iltiwa raha.",
         "english": "This lawsuit remained pending in court for years."
       }
-    ]
+    ],
+    "urdu": "مقدمہ"
   },
   {
     "id": 83,
@@ -1657,7 +1739,8 @@
         "roman": "Woh is jhagray mein kisi fareeq ki himayat nahi karta.",
         "english": "He does not support any party in this dispute."
       }
-    ]
+    ],
+    "urdu": "فریق"
   },
   {
     "id": 84,
@@ -1677,7 +1760,8 @@
         "roman": "Saalisi ke baghair yeh maamla adalat mein chala jaata.",
         "english": "Without arbitration, this matter would have gone to court."
       }
-    ]
+    ],
+    "urdu": "ثالثی"
   },
   {
     "id": 85,
@@ -1697,7 +1781,8 @@
         "roman": "School mein bachhon ko maahauliyaat ki ahmiyat samjhayi gayi.",
         "english": "Children were taught the importance of the environment at school."
       }
-    ]
+    ],
+    "urdu": "ماحولیات"
   },
   {
     "id": 86,
@@ -1717,7 +1802,8 @@
         "roman": "Aaloodgi par qaboo pane ke liye sakht iqdamat ki zaroorat hai.",
         "english": "Strict measures are needed to control pollution."
       }
-    ]
+    ],
+    "urdu": "آلودگی"
   },
   {
     "id": 87,
@@ -1737,7 +1823,8 @@
         "roman": "Khitte mein paaedaar aman ke liye muzakraat zaroori hain.",
         "english": "Dialogue is essential for durable peace in the region."
       }
-    ]
+    ],
+    "urdu": "پائیدار"
   },
   {
     "id": 88,
@@ -1757,7 +1844,8 @@
         "roman": "Fann aur adab ka irtiqa muashray ke sath sath chalta hai.",
         "english": "The evolution of art and literature goes hand in hand with society."
       }
-    ]
+    ],
+    "urdu": "ارتقا"
   },
   {
     "id": 89,
@@ -1777,7 +1865,8 @@
         "roman": "Smart phone is daur ki aik ahem tareen eejaad hai.",
         "english": "The smartphone is one of the most important inventions of this era."
       }
-    ]
+    ],
+    "urdu": "ایجاد"
   },
   {
     "id": 90,
@@ -1797,7 +1886,8 @@
         "roman": "Naye sayyaray ki daryaaft ne khalai tehqeeq mein nayi raahein kholi hain.",
         "english": "The discovery of the new planet opened new avenues in space research."
       }
-    ]
+    ],
+    "urdu": "دریافت"
   },
   {
     "id": 91,
@@ -1817,7 +1907,8 @@
         "roman": "Koshish karein keh hamesha mustanad maakhaz se maloomat lein.",
         "english": "Try to always obtain information from reliable sources."
       }
-    ]
+    ],
+    "urdu": "ماخذ"
   },
   {
     "id": 92,
@@ -1837,7 +1928,8 @@
         "roman": "Kisi mohtabar hawaala ke baghair is khabar par yaqeen na karein.",
         "english": "Do not believe this news without a reliable reference."
       }
-    ]
+    ],
+    "urdu": "حوالہ"
   },
   {
     "id": 93,
@@ -1857,7 +1949,8 @@
         "roman": "Risalay ki nayi ishaaat par qariyeen ne khushi ka izhaar kiya.",
         "english": "Readers expressed happiness over the new publication of the magazine."
       }
-    ]
+    ],
+    "urdu": "اشاعت"
   },
   {
     "id": 94,
@@ -1877,7 +1970,8 @@
         "roman": "Akhbaar aam logon ke jazbaat ka tarjumaan hota hai.",
         "english": "A newspaper is the spokesperson of common people's emotions."
       }
-    ]
+    ],
+    "urdu": "ترجمان"
   },
   {
     "id": 95,
@@ -1897,7 +1991,8 @@
         "roman": "Rehnumaon ko hamesha awaam ki bhalai ke liye sochna chahiye.",
         "english": "Leaders should always think for the betterment of the public."
       }
-    ]
+    ],
+    "urdu": "عوام"
   },
   {
     "id": 96,
@@ -1917,7 +2012,8 @@
         "roman": "Jamati intekhabaat mein us ne wazeh aksariyat haasil ki.",
         "english": "He secured a clear majority in the party elections."
       }
-    ]
+    ],
+    "urdu": "اکثریت"
   },
   {
     "id": 97,
@@ -1937,7 +2033,8 @@
         "roman": "Vote ki ginti mein mukhalif fareeq aqliyat mein reh gaya.",
         "english": "In the vote count, the opposing party remained in the minority."
       }
-    ]
+    ],
+    "urdu": "اقلیت"
   },
   {
     "id": 98,
@@ -1957,7 +2054,8 @@
         "roman": "Woh hamesha apne zaati mafaad ke liye kaam karta hai.",
         "english": "He always works for his personal benefit."
       }
-    ]
+    ],
+    "urdu": "مفاد"
   },
   {
     "id": 99,
@@ -1977,7 +2075,8 @@
         "roman": "Unhon ne baghair kisi aitraaz ke faisla tasleem kar liya.",
         "english": "They accepted the decision without any objection."
       }
-    ]
+    ],
+    "urdu": "اعتراض"
   },
   {
     "id": 100,
@@ -1997,7 +2096,8 @@
         "roman": "Is dastaawez ki tauseeq ke liye adalat ki mohar zaroori hai.",
         "english": "A court stamp is necessary for the confirmation of this document."
       }
-    ]
+    ],
+    "urdu": "توثیق"
   },
   {
     "id": 101,
@@ -2017,7 +2117,8 @@
         "roman": "Unhon ne aam logon ke darmiyan phaili hui afwaahon ki tardeed ki.",
         "english": "They refuted the rumors circulating among the general public."
       }
-    ]
+    ],
+    "urdu": "تردید"
   },
   {
     "id": 102,
@@ -2037,7 +2138,8 @@
         "roman": "Hijr ke lamhaat aashiq ke liye azaab ban jaate hain.",
         "english": "Moments of separation become an agony for the lover."
       }
-    ]
+    ],
+    "urdu": "ہجر"
   },
   {
     "id": 103,
@@ -2057,7 +2159,8 @@
         "roman": "Woh shab-e-visaal ke intizaar mein saal guzaar chuka tha.",
         "english": "He had spent years waiting for the night of union."
       }
-    ]
+    ],
+    "urdu": "وصال"
   },
   {
     "id": 104,
@@ -2077,7 +2180,8 @@
         "roman": "Tumhara yeh khwaab kisi saraab se kam nahi hai.",
         "english": "This dream of yours is nothing less than a mirage."
       }
-    ]
+    ],
+    "urdu": "سراب"
   },
   {
     "id": 105,
@@ -2097,7 +2201,8 @@
         "roman": "Deedaar ke baad bhi aashiq ki tishnagi baaqi rahi.",
         "english": "Even after the sighting, the lover's longing remained."
       }
-    ]
+    ],
+    "urdu": "تشنگی"
   },
   {
     "id": 106,
@@ -2117,7 +2222,8 @@
         "roman": "Ghalib ne firaaq ke mozuh par behtareen ghazlein likhi hain.",
         "english": "Ghalib wrote outstanding ghazals on the theme of separation."
       }
-    ]
+    ],
+    "urdu": "فراق"
   },
   {
     "id": 107,
@@ -2137,7 +2243,8 @@
         "roman": "Ishq ka yeh junoon use kahin ka nahi chhorega.",
         "english": "This madness of love will ruin him completely."
       }
-    ]
+    ],
+    "urdu": "جنوں"
   },
   {
     "id": 108,
@@ -2157,7 +2264,8 @@
         "roman": "Majnoo ki aankhon mein saaf taur par wahshat dikhayi deti thi.",
         "english": "Frenzy was clearly visible in Majnu's eyes."
       }
-    ]
+    ],
+    "urdu": "وحشت"
   },
   {
     "id": 109,
@@ -2177,7 +2285,8 @@
         "roman": "Us ki aah ne mahefil mein ek mehshar utha diya.",
         "english": "His sigh created utter tumult in the gathering."
       }
-    ]
+    ],
+    "urdu": "محشر"
   },
   {
     "id": 110,
@@ -2197,7 +2306,8 @@
         "roman": "Shayer ne is qafas ko apni qaid se tashbeeh di hai.",
         "english": "The poet has compared this cage to his imprisonment."
       }
-    ]
+    ],
+    "urdu": "قفس"
   },
   {
     "id": 111,
@@ -2217,7 +2327,8 @@
         "roman": "Sayyaad ke daam se aazaad hona aasan nahi tha.",
         "english": "Escaping from the hunter's trap was not easy."
       }
-    ]
+    ],
+    "urdu": "صیاد"
   },
   {
     "id": 112,
@@ -2237,7 +2348,8 @@
         "roman": "Bachon ki hansi se ghar ka aangan gulshan ban gaya.",
         "english": "With the children's laughter, the courtyard turned into a garden."
       }
-    ]
+    ],
+    "urdu": "گلشن"
   },
   {
     "id": 113,
@@ -2257,7 +2369,8 @@
         "roman": "Maali subah sawere chaman ki dekhbhaal karta hai.",
         "english": "The gardener tends to the meadow early in the morning."
       }
-    ]
+    ],
+    "urdu": "چمن"
   },
   {
     "id": 114,
@@ -2277,7 +2390,8 @@
         "roman": "Urdu adab mein bulbul aur gulaab ka gehra rishta hai.",
         "english": "In Urdu literature, there is a deep connection between the nightingale and the rose."
       }
-    ]
+    ],
+    "urdu": "بلبل"
   },
   {
     "id": 115,
@@ -2297,7 +2411,8 @@
         "roman": "Raat ke waqt bulb ke gird koi parwaana ud raha tha.",
         "english": "At night, a moth was flying around the light bulb."
       }
-    ]
+    ],
+    "urdu": "پروانہ"
   },
   {
     "id": 116,
@@ -2317,7 +2432,8 @@
         "roman": "Shayer ne mehboob ko saaqi se tashbeeh di hai.",
         "english": "The poet has compared the beloved to a cupbearer."
       }
-    ]
+    ],
+    "urdu": "ساقی"
   },
   {
     "id": 117,
@@ -2337,7 +2453,8 @@
         "roman": "Har gham ko bhulane ke liye mai ka sahara zaroori nahi.",
         "english": "Relying on wine is not necessary to forget every sorrow."
       }
-    ]
+    ],
+    "urdu": "مے"
   },
   {
     "id": 118,
@@ -2357,7 +2474,8 @@
         "roman": "Shaam dhale log maikhaana ki taraf nikal padte the.",
         "english": "As evening fell, people would head toward the tavern."
       }
-    ]
+    ],
+    "urdu": "میخانہ"
   },
   {
     "id": 119,
@@ -2377,7 +2495,8 @@
         "roman": "Us ne gham mein doob kar pura jaam pee liya.",
         "english": "Submerged in sorrow, he drank the entire goblet."
       }
-    ]
+    ],
+    "urdu": "جام"
   },
   {
     "id": 120,
@@ -2397,7 +2516,8 @@
         "roman": "Saba ke chalte hi darakhton ke patte jhoomne lage.",
         "english": "As soon as the morning breeze blew, the tree leaves began to sway."
       }
-    ]
+    ],
+    "urdu": "صبا"
   },
   {
     "id": 121,
@@ -2417,7 +2537,8 @@
         "roman": "Bahaar ke mausam mein naseem ka lutf hi alag hota hai.",
         "english": "In the spring season, the pleasure of a gentle breeze is truly unique."
       }
-    ]
+    ],
+    "urdu": "نسیم"
   },
   {
     "id": 122,
@@ -2437,7 +2558,8 @@
         "roman": "Suraj nikalte hi shabnam bhaap ban kar urh gayi.",
         "english": "As soon as the sun rose, the dew evaporated into vapor."
       }
-    ]
+    ],
+    "urdu": "شبنم"
   },
   {
     "id": 123,
@@ -2457,7 +2579,8 @@
         "roman": "Raat ke waqt mahtaab ki roshni mein sair karna pasand hai.",
         "english": "I like to take a walk at night in the moonlight."
       }
-    ]
+    ],
+    "urdu": "مہتاب"
   },
   {
     "id": 124,
@@ -2477,7 +2600,8 @@
         "roman": "Ilm ka aaftaab har tarah ki jahalat ko mita deta hai.",
         "english": "The sun of knowledge eradicates every form of ignorance."
       }
-    ]
+    ],
+    "urdu": "آفتاب"
   },
   {
     "id": 125,
@@ -2497,7 +2621,8 @@
         "roman": "Mehfil mein sitaron jaisi shakhsiyaat ki kahkashaan jama thi.",
         "english": "A galaxy of star-like personalities was gathered in the event."
       }
-    ]
+    ],
+    "urdu": "کہکشاں"
   },
   {
     "id": 126,
@@ -2517,7 +2642,8 @@
         "roman": "Umeed ki ek kiran ufuq se namudaar hui.",
         "english": "A ray of hope appeared from the horizon."
       }
-    ]
+    ],
+    "urdu": "افق"
   },
   {
     "id": 127,
@@ -2537,7 +2663,8 @@
         "roman": "Us ke chehre par shafaq jaisi chamak thi.",
         "english": "Her face had a glow like the twilight."
       }
-    ]
+    ],
+    "urdu": "شفق"
   },
   {
     "id": 128,
@@ -2557,7 +2684,8 @@
         "roman": "Zulmat ki raat ke baad aakhirkaar sehar aayegi.",
         "english": "After the night of darkness, dawn will finally arrive."
       }
-    ]
+    ],
+    "urdu": "سحر"
   },
   {
     "id": 129,
@@ -2577,7 +2705,8 @@
         "roman": "Woh shab ko dair tak kitaabein parhta rehta hai.",
         "english": "He keeps reading books until late at night."
       }
-    ]
+    ],
+    "urdu": "شب"
   },
   {
     "id": 130,
@@ -2597,7 +2726,8 @@
         "roman": "Is dayaar ke log bohot mehmaan-nawaz hain.",
         "english": "The people of this region are very hospitable."
       }
-    ]
+    ],
+    "urdu": "دیار"
   },
   {
     "id": 131,
@@ -2617,7 +2747,8 @@
         "roman": "Shehar ke is tang koocha mein gaari nahi ja sakti.",
         "english": "A car cannot enter this narrow lane of the city."
       }
-    ]
+    ],
+    "urdu": "کوچہ"
   },
   {
     "id": 132,
@@ -2637,7 +2768,8 @@
         "roman": "Majnoon dasht mein Deewana ban kar ghoomta raha.",
         "english": "Majnoon roamed around the wilderness like a madman."
       }
-    ]
+    ],
+    "urdu": "دشت"
   },
   {
     "id": 133,
@@ -2657,7 +2789,8 @@
         "roman": "Samandar ka girdaab bohot khatarnaak hota hai.",
         "english": "A whirlpool in the ocean is very dangerous."
       }
-    ]
+    ],
+    "urdu": "گرداب"
   },
   {
     "id": 134,
@@ -2677,7 +2810,8 @@
         "roman": "Zindagi ki lehar ne use kisi naye saahil par la khara kiya.",
         "english": "The wave of life brought him to a new shore."
       }
-    ]
+    ],
+    "urdu": "ساحل"
   },
   {
     "id": 135,
@@ -2697,7 +2831,8 @@
         "roman": "Talaatum ke thammte hi kashti aage barhi.",
         "english": "As soon as the turbulence subsided, the boat moved forward."
       }
-    ]
+    ],
+    "urdu": "تلاطم"
   },
   {
     "id": 136,
@@ -2717,7 +2852,8 @@
         "roman": "Aaj kal woh apni hi mauj mein rehta hai.",
         "english": "These days he remains lost in his own whimsical mood."
       }
-    ]
+    ],
+    "urdu": "موج"
   },
   {
     "id": 137,
@@ -2737,7 +2873,8 @@
         "roman": "Qatra qatra mil kar hi daryaa banta hai.",
         "english": "Drop by drop, an entire river is formed."
       }
-    ]
+    ],
+    "urdu": "قطرہ"
   },
   {
     "id": 138,
@@ -2757,7 +2894,8 @@
         "roman": "Mazi ki yaadon ka dareecha achanak khul gaya.",
         "english": "The small window of past memories suddenly opened."
       }
-    ]
+    ],
+    "urdu": "دریچہ"
   },
   {
     "id": 139,
@@ -2777,7 +2915,8 @@
         "roman": "Toofaan ne darakht par bana aashiyaana tabaah kar diya.",
         "english": "The storm destroyed the nest built on the tree."
       }
-    ]
+    ],
+    "urdu": "آشیانہ"
   },
   {
     "id": 140,
@@ -2797,7 +2936,8 @@
         "roman": "Mushkil waqt mein woh dost hamare liye maseeha ban kar aaya.",
         "english": "In tough times, that friend came as a savior for us."
       }
-    ]
+    ],
+    "urdu": "مسیحا"
   },
   {
     "id": 141,
@@ -2817,7 +2957,8 @@
         "roman": "Gham ke maaron ko hamesha ek mukhlis chaaragar ki talash hoti hai.",
         "english": "The grief-stricken are always in search of a sincere healer."
       }
-    ]
+    ],
+    "urdu": "چارہ گر"
   },
   {
     "id": 142,
@@ -2837,7 +2978,8 @@
         "roman": "Darmaan-e-gham ki talash mein umr beet gayi.",
         "english": "A lifetime passed searching for a remedy for sorrow."
       }
-    ]
+    ],
+    "urdu": "درماں"
   },
   {
     "id": 143,
@@ -2857,7 +2999,8 @@
         "roman": "Be-gunaahon ke liye yeh shehar ek zindaan ban chuka hai.",
         "english": "For the innocent, this city has turned into a prison."
       }
-    ]
+    ],
+    "urdu": "زنداں"
   },
   {
     "id": 144,
@@ -2877,7 +3020,8 @@
         "roman": "Rasm-o-rivaaj ki zanjeerein insaan ko aazaad nahi hone detin.",
         "english": "The chains of traditions do not let a person be free."
       }
-    ]
+    ],
+    "urdu": "زنجیر"
   },
   {
     "id": 145,
@@ -2897,7 +3041,8 @@
         "roman": "Woh apne raqeeb ki kamyaabi par bilkul khush nahi tha.",
         "english": "He was not at all happy with the success of his rival."
       }
-    ]
+    ],
+    "urdu": "رقیب"
   },
   {
     "id": 146,
@@ -2917,7 +3062,8 @@
         "roman": "Us ne apne mehboob ke liye ek khoobsurat nazm likhi.",
         "english": "He wrote a beautiful poem for his beloved."
       }
-    ]
+    ],
+    "urdu": "محبوب"
   },
   {
     "id": 147,
@@ -2937,7 +3083,8 @@
         "roman": "Aashiq ne apni jaan ki parwah kiye baghair qadam barhaya.",
         "english": "The lover stepped forward without caring for his own life."
       }
-    ]
+    ],
+    "urdu": "عاشق"
   },
   {
     "id": 148,
@@ -2957,7 +3104,8 @@
         "roman": "Koocha-e-jaanaan ki hawa mein bhi ek alag nasha hota hai.",
         "english": "Even the breeze in the beloved's street has a distinct intoxication."
       }
-    ]
+    ],
+    "urdu": "جاناں"
   },
   {
     "id": 149,
@@ -2977,7 +3125,8 @@
         "roman": "Us ke dilbar ne muskura kar salam ka jawab diya.",
         "english": "Her beloved smiled and replied to the greeting."
       }
-    ]
+    ],
+    "urdu": "دلبر"
   },
   {
     "id": 150,
@@ -2997,7 +3146,8 @@
         "roman": "Aakhirkaar sitamgar ka zawaal shuroo ho gaya.",
         "english": "Finally, the downfall of the tyrant began."
       }
-    ]
+    ],
+    "urdu": "ستمگر"
   },
   {
     "id": 151,
@@ -3017,7 +3167,8 @@
         "roman": "Us ke husn ne aashiqon par naya sitam dhaa diya.",
         "english": "Her beauty unleashed a new tyranny upon the lovers."
       }
-    ]
+    ],
+    "urdu": "ستم"
   },
   {
     "id": 152,
@@ -3037,7 +3188,8 @@
         "roman": "Shayar apni ghazal mein mehboob ki jafa ka rona rota hai.",
         "english": "The poet laments the cruelty of the beloved in his ghazal."
       }
-    ]
+    ],
+    "urdu": "جفا"
   },
   {
     "id": 153,
@@ -3057,7 +3209,8 @@
         "roman": "Us ne apni bewafaai par zara bhi sharmindagi mehsoos nahi ki.",
         "english": "She did not feel the slightest remorse over her infidelity."
       }
-    ]
+    ],
+    "urdu": "بے وفائی"
   },
   {
     "id": 154,
@@ -3077,7 +3230,8 @@
         "roman": "Yeh qeemti ashk kisi be-qadr insaan ke liye mat bahaao.",
         "english": "Do not shed these precious tears for someone who doesn't value them."
       }
-    ]
+    ],
+    "urdu": "اشک"
   },
   {
     "id": 155,
@@ -3097,7 +3251,8 @@
         "roman": "Us ke munh se be-ikhtiyaar ek sard aah nikal gayi.",
         "english": "A cold sigh escaped his lips involuntarily."
       }
-    ]
+    ],
+    "urdu": "آہ"
   },
   {
     "id": 156,
@@ -3117,7 +3272,8 @@
         "roman": "Shayar ki fughaan ne mehfil mein sab ko udaas kar diya.",
         "english": "The poet's wailing lament saddened everyone in the gathering."
       }
-    ]
+    ],
+    "urdu": "فغاں"
   },
   {
     "id": 157,
@@ -3137,7 +3293,8 @@
         "roman": "Raat ke sannate mein sirf hawa ka naala sunaai de raha tha.",
         "english": "In the silence of the night, only the lament of the wind could be heard."
       }
-    ]
+    ],
+    "urdu": "نالہ"
   },
   {
     "id": 158,
@@ -3157,7 +3314,8 @@
         "roman": "Us ne hasrat bhari nigaahon se purani tasveeron ko dekha.",
         "english": "She looked at the old photographs with longing eyes."
       }
-    ]
+    ],
+    "urdu": "حسرت"
   },
   {
     "id": 159,
@@ -3177,7 +3335,8 @@
         "roman": "Dil ke armaan aansuon mein beh gaye.",
         "english": "The cherished desires of the heart washed away in tears."
       }
-    ]
+    ],
+    "urdu": "ارمان"
   },
   {
     "id": 160,
@@ -3197,7 +3356,8 @@
         "roman": "Shayari ke lutf ne saari mehfil par ek khumaar taari kar diya.",
         "english": "The pleasure of poetry cast an intoxicating spell over the whole gathering."
       }
-    ]
+    ],
+    "urdu": "خمار"
   },
   {
     "id": 161,
@@ -3217,7 +3377,8 @@
         "roman": "Chai ki pehli chuski ne thakan mita kar ek halka suroor bakhsha.",
         "english": "The first sip of tea erased the fatigue and brought a mild bliss."
       }
-    ]
+    ],
+    "urdu": "سرور"
   },
   {
     "id": 162,
@@ -3237,7 +3398,8 @@
         "roman": "Sufiyana kalaam sun kar dil par ajeeb kaif chha gaya.",
         "english": "Hearing the mystical verse, a wonderful rapture enveloped the heart."
       }
-    ]
+    ],
+    "urdu": "کیف"
   },
   {
     "id": 163,
@@ -3257,7 +3419,8 @@
         "roman": "Us ki zabaan se nishaat-angez baatein sun kar gham door ho gaye.",
         "english": "Hearing joyful words from his lips chased away the sorrows."
       }
-    ]
+    ],
+    "urdu": "نشاط"
   },
   {
     "id": 164,
@@ -3277,7 +3440,8 @@
         "roman": "Yeh geet tarab aur shadaabi ka paighaam deta hai.",
         "english": "This song delivers a message of merriment and freshness."
       }
-    ]
+    ],
+    "urdu": "طرب"
   },
   {
     "id": 165,
@@ -3297,7 +3461,8 @@
         "roman": "Koshish ke bawajood nakaami par dil ko malaal zaroor hota hai.",
         "english": "Despite efforts, failure certainly leaves a regret in the heart."
       }
-    ]
+    ],
+    "urdu": "ملال"
   },
   {
     "id": 166,
@@ -3317,7 +3482,8 @@
         "roman": "Ghamgeen mausiqi dil mein gehra huzn paida karti hai.",
         "english": "Sad music induces a deep melancholy in the heart."
       }
-    ]
+    ],
+    "urdu": "حزن"
   },
   {
     "id": 167,
@@ -3337,7 +3503,8 @@
         "roman": "Umeed ke charaagh ne dil se yaas ke andhere mita diye.",
         "english": "The lamp of hope wiped away the darkness of despair from the heart."
       }
-    ]
+    ],
+    "urdu": "یاس"
   },
   {
     "id": 168,
@@ -3357,7 +3524,8 @@
         "roman": "Us ne shikasta dil ke sath nayi zindagi shuru karne ka faisla kiya.",
         "english": "He decided to start a new life with a broken heart."
       }
-    ]
+    ],
+    "urdu": "شکستہ"
   },
   {
     "id": 169,
@@ -3377,7 +3545,8 @@
         "roman": "Tirchhi nigaahon ne kitne hi dilon ko bismil bana dala.",
         "english": "Those slanting glances have wounded countless hearts."
       }
-    ]
+    ],
+    "urdu": "بسمل"
   },
   {
     "id": 170,
@@ -3397,7 +3566,8 @@
         "roman": "Junoon-e-ishq mein aashiq ko apne garebaan ki khabar na rahi.",
         "english": "In the frenzy of love, the lover lost awareness of his torn collar."
       }
-    ]
+    ],
+    "urdu": "گریباں"
   },
   {
     "id": 171,
@@ -3417,7 +3587,8 @@
         "roman": "Maa ki duaon se meri zindagi ka daaman khushiyon se bhar gaya.",
         "english": "With mother's prayers, the hem of my life was filled with happiness."
       }
-    ]
+    ],
+    "urdu": "دامن"
   },
   {
     "id": 172,
@@ -3437,7 +3608,8 @@
         "roman": "Aaine mein apna aks dekh kar us ne muskuraya.",
         "english": "Seeing her reflection in the mirror, she smiled."
       }
-    ]
+    ],
+    "urdu": "عکس"
   },
   {
     "id": 173,
@@ -3457,7 +3629,8 @@
         "roman": "Maa-baap ka saaya hamesha aulad ke sath parchhaaeen ban kar rehta hai.",
         "english": "Parents' protection always stays with children like a silhouette."
       }
-    ]
+    ],
+    "urdu": "پرچھائیں"
   },
   {
     "id": 174,
@@ -3477,7 +3650,8 @@
         "roman": "Deewaar par bana naqsh bohot purani tehzeeb ko zahir karta hai.",
         "english": "The engraving on the wall shows a very ancient civilization."
       }
-    ]
+    ],
+    "urdu": "نقش"
   },
   {
     "id": 175,
@@ -3497,7 +3671,8 @@
         "roman": "Ahbaab ki mehfil mein husn-e-sukhan ki tareef har koi karta hai.",
         "english": "In the gathering of friends, everyone praises the beauty of poetry."
       }
-    ]
+    ],
+    "urdu": "سخن"
   },
   {
     "id": 176,
@@ -3517,7 +3692,8 @@
         "roman": "Ek sachhe sukhanwar ki pehchan uske lafzon ki gehrai se hoti hai.",
         "english": "A true poet is recognized by the depth of his words."
       }
-    ]
+    ],
+    "urdu": "سخنور"
   },
   {
     "id": 177,
@@ -3537,7 +3713,8 @@
         "roman": "Ustaad shayar ne mushkil qaafiya bhi asani se nibha liya.",
         "english": "The master poet handled even a difficult rhyme with ease."
       }
-    ]
+    ],
+    "urdu": "قافیہ"
   },
   {
     "id": 178,
@@ -3557,7 +3734,8 @@
         "roman": "Sher mein radeef qaafiye ke foran baad aati hai.",
         "english": "In a couplet, the refrain comes immediately after the rhyme."
       }
-    ]
+    ],
+    "urdu": "ردیف"
   },
   {
     "id": 179,
@@ -3577,7 +3755,8 @@
         "roman": "Kisi bhi ghazal ki kamyabi mein acche matla ka bara haath hota hai.",
         "english": "A good opening couplet plays a big role in any ghazal's success."
       }
-    ]
+    ],
+    "urdu": "مطلع"
   },
   {
     "id": 180,
@@ -3597,7 +3776,8 @@
         "roman": "Agar maqta mazboot ho toh ghazal ka asar der tak rehta hai.",
         "english": "If the closing couplet is strong, the impact of the ghazal lingers long."
       }
-    ]
+    ],
+    "urdu": "مقطع"
   },
   {
     "id": 181,
@@ -3617,7 +3797,8 @@
         "roman": "Shayar hamesha maqta mein apna takhallus darj karta hai.",
         "english": "A poet always includes his pen name in the closing couplet."
       }
-    ]
+    ],
+    "urdu": "تخلص"
   },
   {
     "id": 182,
@@ -3637,7 +3818,8 @@
         "roman": "Humari dosti ki daastaan saalon purani hai.",
         "english": "The tale of our friendship is years old."
       }
-    ]
+    ],
+    "urdu": "داستان"
   },
   {
     "id": 183,
@@ -3657,7 +3839,8 @@
         "roman": "Unhone ek naya afsaana likh kar adabi risale ko bheja.",
         "english": "He wrote a new short story and sent it to a literary journal."
       }
-    ]
+    ],
+    "urdu": "افسانہ"
   },
   {
     "id": 184,
@@ -3677,7 +3860,8 @@
         "roman": "Log kya kahenge, is zamaane ki fikr karna chhor do.",
         "english": "Stop worrying about what people will say or what the world thinks."
       }
-    ]
+    ],
+    "urdu": "زمانہ"
   },
   {
     "id": 185,
@@ -3697,7 +3881,8 @@
         "roman": "Kalaam-e-Iqbal dahr ki be-sabaati ka aaina-daar hai.",
         "english": "Iqbal's poetry reflects the transience of the world."
       }
-    ]
+    ],
+    "urdu": "دہر"
   },
   {
     "id": 186,
@@ -3717,7 +3902,8 @@
         "roman": "Shayar ne mehboob ke husn ko falak ka chaand kaha.",
         "english": "The poet called his beloved's beauty the moon of the heavens."
       }
-    ]
+    ],
+    "urdu": "فلک"
   },
   {
     "id": 187,
@@ -3737,7 +3923,8 @@
         "roman": "Arsh-e-ilaahi ke samne har insaan be-bas hai.",
         "english": "Before the divine throne, every human is helpless."
       }
-    ]
+    ],
+    "urdu": "عرش"
   },
   {
     "id": 188,
@@ -3757,7 +3944,8 @@
         "roman": "Khaak-e-watan se mohabbat har shehri ka farz hai.",
         "english": "Love for the dust of the homeland is every citizen's duty."
       }
-    ]
+    ],
+    "urdu": "خاک"
   },
   {
     "id": 189,
@@ -3777,7 +3965,8 @@
         "roman": "Faasle par aati hui gaadi se ghubaar uth raha tha.",
         "english": "A cloud of dust was rising from the car approaching in the distance."
       }
-    ]
+    ],
+    "urdu": "غبار"
   },
   {
     "id": 190,
@@ -3797,7 +3986,8 @@
         "roman": "Khatarnak hadse ke baad imaarat se shola nikalne laga.",
         "english": "After the dangerous accident, flames began emerging from the building."
       }
-    ]
+    ],
+    "urdu": "شعلہ"
   },
   {
     "id": 191,
@@ -3817,7 +4007,8 @@
         "roman": "Koyle se nikalne wali sharar hawa mein gayab ho gayi.",
         "english": "The spark emerging from the coal vanished into the air."
       }
-    ]
+    ],
+    "urdu": "شرر"
   },
   {
     "id": 192,
@@ -3837,7 +4028,8 @@
         "roman": "Mohabbat ki aatish ko bujhana aasan nahi hota.",
         "english": "It is not easy to extinguish the fire of love."
       }
-    ]
+    ],
+    "urdu": "آتش"
   },
   {
     "id": 193,
@@ -3857,7 +4049,8 @@
         "roman": "Taqdeer par bharosa rakho par koshish kabhi mat chhoro.",
         "english": "Trust in destiny, but never give up trying."
       }
-    ]
+    ],
+    "urdu": "تقدیر"
   },
   {
     "id": 194,
@@ -3877,7 +4070,8 @@
         "roman": "Parhai chhor kar aawaara doston ke saath ghoomna theek nahi.",
         "english": "Leaving studies to roam with vagrant friends is not right."
       }
-    ]
+    ],
+    "urdu": "آوارہ"
   },
   {
     "id": 195,
@@ -3897,7 +4091,8 @@
         "roman": "Mera bhai bohot sada aur darvesh mizaaj aadmi hai.",
         "english": "My brother is a very simple and mystic-natured man."
       }
-    ]
+    ],
+    "urdu": "درویش"
   },
   {
     "id": 196,
@@ -3917,7 +4112,8 @@
         "roman": "Khalwat ho ya jalwat, uska kirdar hamesha paak rehta hai.",
         "english": "Be it solitude or company, his character always remains pure."
       }
-    ]
+    ],
+    "urdu": "خلوت"
   },
   {
     "id": 197,
@@ -3937,7 +4133,8 @@
         "roman": "Shayar mehboob ke husn ke jalwe ki tareef kar raha hai.",
         "english": "The poet is praising the splendor of the beloved's beauty."
       }
-    ]
+    ],
+    "urdu": "جلوہ"
   },
   {
     "id": 198,
@@ -3957,7 +4154,8 @@
         "roman": "Buzurgon ka deedaar bhi ek badi barkat samjha jaata hai.",
         "english": "Beholding the elders is also considered a great blessing."
       }
-    ]
+    ],
+    "urdu": "دیدار"
   },
   {
     "id": 199,
@@ -3977,7 +4175,8 @@
         "roman": "Kashmir ki wadiyon ka har nazzaara dil ko chhu leta hai.",
         "english": "Every spectacle of Kashmir's valleys touches the heart."
       }
-    ]
+    ],
+    "urdu": "نظارہ"
   },
   {
     "id": 200,
@@ -3997,7 +4196,8 @@
         "roman": "Gham ke maare uske rukhsaar par aansu behne lage.",
         "english": "Stricken with grief, tears began flowing down her cheek."
       }
-    ]
+    ],
+    "urdu": "رخسار"
   },
   {
     "id": 201,
@@ -4017,7 +4217,8 @@
         "roman": "Us ne aahista se apni zulf ko kaan ke peeche kiya.",
         "english": "She gently tucked her lock of hair behind her ear."
       }
-    ]
+    ],
+    "urdu": "زلف"
   },
   {
     "id": 202,
@@ -4037,7 +4238,8 @@
         "roman": "Shayari mein mehboob ke lab ki tulna gulaab ki pankhri se hoti hai.",
         "english": "In poetry, the beloved's lip is compared to a rose petal."
       }
-    ]
+    ],
+    "urdu": "لب"
   },
   {
     "id": 203,
@@ -4057,7 +4259,8 @@
         "roman": "Us ne nigaah utha kar dekha to samne purana dost khara tha.",
         "english": "When he raised his gaze, his old friend was standing before him."
       }
-    ]
+    ],
+    "urdu": "نگاہ"
   },
   {
     "id": 204,
@@ -4077,7 +4280,8 @@
         "roman": "Bachon ki bholi ada sab ka dil moh leti hai.",
         "english": "The innocent charm of children wins everyone's heart."
       }
-    ]
+    ],
+    "urdu": "ادا"
   },
   {
     "id": 205,
@@ -4097,7 +4301,8 @@
         "roman": "Qaum ko apne bahadur jawano par hamesha naaz rahega.",
         "english": "The nation will always be proud of its brave soldiers."
       }
-    ]
+    ],
+    "urdu": "ناز"
   },
   {
     "id": 206,
@@ -4117,7 +4322,8 @@
         "roman": "Har bacha apni maa ki aankh ka taara hota hai.",
         "english": "Every child is the apple of their mother's eye."
       }
-    ]
+    ],
+    "urdu": "آنکھ کا تارا"
   },
   {
     "id": 207,
@@ -4137,7 +4343,8 @@
         "roman": "Mushkil waqt aane par matlabi dost nau do gyaarah ho jate hain.",
         "english": "Selfish friends run away when difficult times arrive."
       }
-    ]
+    ],
+    "urdu": "نو دو گیارہ ہونا"
   },
   {
     "id": 208,
@@ -4157,7 +4364,8 @@
         "roman": "Us ne company ke raaz bech kar aasteen ka saanp hone ka saboot diya.",
         "english": "By selling company secrets, he proved himself to be a hidden traitor."
       }
-    ]
+    ],
+    "urdu": "آستین کا سانپ"
   },
   {
     "id": 209,
@@ -4177,7 +4385,8 @@
         "roman": "Mujhe pehle hi shak tha ke daal mein kuch kaala hai.",
         "english": "I already suspected that something fishy was going on."
       }
-    ]
+    ],
+    "urdu": "دال میں کچھ کالا ہونا"
   },
   {
     "id": 210,
@@ -4197,7 +4406,8 @@
         "roman": "Is mehengai ke daur mein ye wazifa oont ke munh mein zeera hai.",
         "english": "In this era of inflation, this stipend is like a drop in the ocean."
       }
-    ]
+    ],
+    "urdu": "اونٹ کے منہ میں زیرہ"
   },
   {
     "id": 211,
@@ -4217,7 +4427,8 @@
         "roman": "Jab bijli chali gayi to sab ne aasmaan sar par utha liya.",
         "english": "When the power went out, everyone created a huge fuss."
       }
-    ]
+    ],
+    "urdu": "آسمان سر پر اٹھانا"
   },
   {
     "id": 212,
@@ -4237,7 +4448,8 @@
         "roman": "Naukri haasil karne ke liye main eri choti ka zor laga raha hoon.",
         "english": "I am putting in my utmost effort to secure the job."
       }
-    ]
+    ],
+    "urdu": "ایڑی چوٹی کا زور لگانا"
   },
   {
     "id": 213,
@@ -4257,7 +4469,8 @@
         "roman": "Bache ki badtameezi dekh kar baap aag bagoola ho gaya.",
         "english": "Seeing the child's insolence, the father flew into a rage."
       }
-    ]
+    ],
+    "urdu": "آگ بگولا ہونا"
   },
   {
     "id": 214,
@@ -4277,7 +4490,8 @@
         "roman": "Wo sharmindagi ki wajah se mujh se aankhein chura raha hai.",
         "english": "He is avoiding eye contact with me out of embarrassment."
       }
-    ]
+    ],
+    "urdu": "آنکھیں چرانا"
   },
   {
     "id": 215,
@@ -4297,7 +4511,8 @@
         "roman": "Shahar ke logon ne fauj ke jawano ke liye aankhein bichha dein.",
         "english": "The citizens gave a warm and heartfelt welcome to the soldiers."
       }
-    ]
+    ],
+    "urdu": "آنکھیں بچھانا"
   },
   {
     "id": 216,
@@ -4317,7 +4532,8 @@
         "roman": "Doosron ko qadr karne do, khud apne munh miyaan mitthu mat bano.",
         "english": "Let others appreciate you; don't toot your own horn."
       }
-    ]
+    ],
+    "urdu": "اپنے منہ میاں مٹھو بننا"
   },
   {
     "id": 217,
@@ -4337,7 +4553,8 @@
         "roman": "Kisi ke dabao mein aa kar us ki ungliyon par mat nacho.",
         "english": "Do not yield to someone's pressure and dance to their tune."
       }
-    ]
+    ],
+    "urdu": "انگلیوں پر نچانا"
   },
   {
     "id": 218,
@@ -4357,7 +4574,8 @@
         "roman": "Aakhri minute mein goal hone se team haarne se baal baal bachi.",
         "english": "A last-minute goal saved the team from a narrow defeat."
       }
-    ]
+    ],
+    "urdu": "بال بال بچنا"
   },
   {
     "id": 219,
@@ -4377,7 +4595,8 @@
         "roman": "Chori pakri gayi to mujrim baghlein jhaankne laga.",
         "english": "When the theft was uncovered, the criminal stood flustered without an answer."
       }
-    ]
+    ],
+    "urdu": "بغلیں جھانکنا"
   },
   {
     "id": 220,
@@ -4397,7 +4616,8 @@
         "roman": "Apni ghalti ka ehsaas hote hi wo sharmindagi se paani paani ho gayi.",
         "english": "Realizing her mistake, she was completely overcome with shame."
       }
-    ]
+    ],
+    "urdu": "پانی پانی ہونا"
   },
   {
     "id": 221,
@@ -4417,7 +4637,8 @@
         "roman": "Bache school se aate hi kehne lage ke pet mein choohe daur rahe hain.",
         "english": "Returning from school, the kids complained they were famished."
       }
-    ]
+    ],
+    "urdu": "پیٹ میں چوہے دوڑنا"
   },
   {
     "id": 222,
@@ -4437,7 +4658,8 @@
         "roman": "Tarakki ke liye talwe chaatne ke bajaye mehnat par bharosa karo.",
         "english": "Rely on hard work for promotion rather than brown-nosing."
       }
-    ]
+    ],
+    "urdu": "تلوے چاٹنا"
   },
   {
     "id": 223,
@@ -4457,7 +4679,8 @@
         "roman": "Is qadeem masle ko hal karna sarkaari idaron ke liye terhi kheer sabit hua.",
         "english": "Solving this old dispute proved to be an uphill battle for the authorities."
       }
-    ]
+    ],
+    "urdu": "ٹیڑھی کھیر"
   },
   {
     "id": 224,
@@ -4477,7 +4700,8 @@
         "roman": "Khoobsoorat lights ne shaadi ke ghar ko chaar chaand laga diye.",
         "english": "The lovely lights enhanced the wedding house's splendor."
       }
-    ]
+    ],
+    "urdu": "چار چاند لگانا"
   },
   {
     "id": 225,
@@ -4497,7 +4721,8 @@
         "roman": "Us be-sharm aadmi ko samjhana bekaar hai, wo chikna ghara ban chuka hai.",
         "english": "Explaining anything to that shameless man is useless; he is entirely shameless."
       }
-    ]
+    ],
+    "urdu": "چکنا گھڑا"
   },
   {
     "id": 226,
@@ -4517,7 +4742,8 @@
         "roman": "Apna karobar jamane ke liye unhon ne khoon paseena ek kiya.",
         "english": "They put in tremendous effort to establish their business."
       }
-    ]
+    ],
+    "urdu": "خون پسینہ ایک کرنا"
   },
   {
     "id": 227,
@@ -4537,7 +4763,8 @@
         "roman": "Us ki be-misaal taraqqi dekh kar dushman bhi daanton tale ungli daba baithe.",
         "english": "Seeing his remarkable success, even his rivals bit their fingers in astonishment."
       }
-    ]
+    ],
+    "urdu": "دانتوں تلے انگلی دبانا"
   },
   {
     "id": 228,
@@ -4557,7 +4784,8 @@
         "roman": "Purane doston se barson baad mil kar sab ka dil baagh baagh ho gaya.",
         "english": "Meeting old friends after years brought immense joy to everyone."
       }
-    ]
+    ],
+    "urdu": "دل باغ باغ ہونا"
   },
   {
     "id": 229,
@@ -4577,7 +4805,8 @@
         "roman": "Sar par chot lagte hi use din mein taare nazar aane lage.",
         "english": "As soon as he was hit on the head, he saw stars."
       }
-    ]
+    ],
+    "urdu": "دن میں تارے نظر آنا"
   },
   {
     "id": 230,
@@ -4597,7 +4826,8 @@
         "roman": "Traffic khali dekhte hi us ki bike hawa se baatein karne lagi.",
         "english": "Seeing the clear road, his motorcycle accelerated at great speed."
       }
-    ]
+    ],
+    "urdu": "ہوا سے باتیں کرنا"
   },
   {
     "id": 231,
@@ -4617,7 +4847,8 @@
         "roman": "Dhamaka hote hi log sar par paaon rakh kar bhaagne lage.",
         "english": "As the blast occurred, people began running away in total panic."
       }
-    ]
+    ],
+    "urdu": "سر پر پاؤں رکھ کر بھاگنا"
   },
   {
     "id": 232,
@@ -4637,7 +4868,8 @@
         "roman": "Khoobsurat manzar ke sath halki barish sone par suhaaga saabit hui.",
         "english": "The light drizzle along with the scenic view was the cherry on top."
       }
-    ]
+    ],
+    "urdu": "سونے پر سہاگہ"
   },
   {
     "id": 233,
@@ -4657,7 +4889,8 @@
         "roman": "Shehar mein mashhoor doctor ab eid ka chaand bane hue hain.",
         "english": "The famous doctor in the city is hardly ever available these days."
       }
-    ]
+    ],
+    "urdu": "عید کا چاند ہونا"
   },
   {
     "id": 234,
@@ -4677,7 +4910,8 @@
         "roman": "Khatre ki boo paakar shikaari kutte ke kaan khare ho gaye.",
         "english": "Sensing danger, the hound became intensely watchful."
       }
-    ]
+    ],
+    "urdu": "کان کھڑے ہونا"
   },
   {
     "id": 235,
@@ -4697,7 +4931,8 @@
         "roman": "Hukumat ki hidayat par kisi dukaandar ke kaan par joon na reengi.",
         "english": "The government's directive had no impact whatsoever on any shopkeeper."
       }
-    ]
+    ],
+    "urdu": "کان پر جوں نہ رینگنا"
   },
   {
     "id": 236,
@@ -4717,7 +4952,8 @@
         "roman": "Mushkil waqt khatam hone par unhon ne ghee ke chiraagh jalaye.",
         "english": "When the difficult times ended, they celebrated with great joy."
       }
-    ]
+    ],
+    "urdu": "گھی کے چراغ جلانا"
   },
   {
     "id": 237,
@@ -4737,7 +4973,8 @@
         "roman": "Baqi doston ke samne apni baat manwana lohe ke chane chabaana hai.",
         "english": "Convincing the rest of the friends is an uphill task."
       }
-    ]
+    ],
+    "urdu": "لوہے کے چنے چبانا"
   },
   {
     "id": 238,
@@ -4757,7 +4994,8 @@
         "roman": "Meethe aam dekh kar bache ke munh mein paani bhar aaya.",
         "english": "Looking at the sweet mangoes, the child's mouth watered."
       }
-    ]
+    ],
+    "urdu": "منہ میں پانی بھر آنا"
   },
   {
     "id": 239,
@@ -4777,7 +5015,8 @@
         "roman": "Is purani gari ki kharabiyon ne meri naak mein dam kar diya hai.",
         "english": "This old car's recurring breakdowns have thoroughly vexed me."
       }
-    ]
+    ],
+    "urdu": "ناک میں دم کرنا"
   },
   {
     "id": 240,
@@ -4797,7 +5036,8 @@
         "roman": "Aise ghair zimmedarana ravayye se dafter mein tumhari naak kat sakti hai.",
         "english": "Such irresponsible behavior can ruin your reputation at the office."
       }
-    ]
+    ],
+    "urdu": "ناک کٹنا"
   },
   {
     "id": 241,
@@ -4817,7 +5057,8 @@
         "roman": "Musal-sal bheer dekh kar us ke haath paaon phool gaye.",
         "english": "Seeing the overwhelming crowd, he became completely flustered."
       }
-    ]
+    ],
+    "urdu": "ہاتھ پاؤں پھول جانا"
   },
   {
     "id": 242,
@@ -4837,7 +5078,8 @@
         "roman": "Har kaam ka ek tareeqa hota hai, hatheli par sarson nahi jamti.",
         "english": "Everything has a process; instant outcomes are impossible."
       }
-    ]
+    ],
+    "urdu": "ہتھیلی پر سرسوں جمانا"
   },
   {
     "id": 243,
@@ -4857,7 +5099,8 @@
         "roman": "Kitaab parh kar ilm bhi mila aur inaam bhi, yeh hai aam ke aam guthliyon ke daam.",
         "english": "Reading the book brought knowledge and a prize, giving double returns."
       }
-    ]
+    ],
+    "urdu": "آم کے آم گٹھلیوں کے دام"
   },
   {
     "id": 244,
@@ -4877,7 +5120,8 @@
         "roman": "Us dukan par bas wahi ek aam mechanic tha, andhon mein kaana raaja.",
         "english": "He was the only mediocre mechanic there, lording it over the untrained."
       }
-    ]
+    ],
+    "urdu": "اندھوں میں کانا راجہ"
   },
   {
     "id": 245,
@@ -4897,7 +5141,8 @@
         "roman": "Barray shandar dafter ke ba-wajood un ki service oonchi dukaan pheeka pakwaan hai.",
         "english": "Despite the grand office, their service is merely impressive on the surface."
       }
-    ]
+    ],
+    "urdu": "اونچی دکان پھیکا پکوان"
   },
   {
     "id": 246,
@@ -4917,7 +5162,8 @@
         "roman": "Ameer aadmi ne faisla apne haq mein karwaya, jis ki laathi us ki bhains.",
         "english": "The rich man swayed the verdict his way; power always rules."
       }
-    ]
+    ],
+    "urdu": "جس کی لاٹھی اس کی بھینس"
   },
   {
     "id": 247,
@@ -4937,7 +5183,8 @@
         "roman": "Ghalti khud ki thi par computer ko kos raha tha, sach hai naach na jaane aangan terha.",
         "english": "The mistake was his, yet he blamed the computer; truly a poor worker blaming tools."
       }
-    ]
+    ],
+    "urdu": "ناچ نہ جانے آنگن ٹیڑھا"
   },
   {
     "id": 248,
@@ -4957,7 +5204,8 @@
         "roman": "Film industry dur se achi dikhti hai magar sach mein door ke dhol suhaane hain.",
         "english": "The film industry looks great from afar, but the grass is only greener on the outside."
       }
-    ]
+    ],
+    "urdu": "دور کے ڈھول سہانے"
   },
   {
     "id": 249,
@@ -4977,7 +5225,8 @@
         "roman": "Khaas qahwa us ne thook diya, sach hai bandar kya jaane adrak ka swaad.",
         "english": "He spat out the specialty coffee; truly, the ignorant cannot judge true quality."
       }
-    ]
+    ],
+    "urdu": "بندر کیا جانے ادرک کا سواد"
   },
   {
     "id": 250,
@@ -4997,7 +5246,8 @@
         "roman": "Hamare mashhoor ustad ki shehar mein qadar nahi, wahi ghar ki murghi daal baraabar.",
         "english": "Our famous teacher is ignored locally; what is readily available is taken for granted."
       }
-    ]
+    ],
+    "urdu": "گھر کی مرغی دال برابر"
   },
   {
     "id": 251,
@@ -5017,7 +5267,8 @@
         "roman": "Ticket sirf chaar the aur shauqeen pachaas, bilkul ek anaar sau beemaar.",
         "english": "There were only four tickets and fifty fans, exactly too few things for too many people."
       }
-    ]
+    ],
+    "urdu": "ایک انار سو بیمار"
   },
   {
     "id": 252,
@@ -5037,7 +5288,8 @@
         "roman": "Flight nikal chuki hai, ab pachhtaaye kya hot jab chiriyaan chug gaeen khet.",
         "english": "The flight has already left; it is no use crying over spilt milk now."
       }
-    ]
+    ],
+    "urdu": "اب پچھتائے کیا ہوت جب چڑیاں چگ گئیں کھیت"
   },
   {
     "id": 253,
@@ -5057,7 +5309,8 @@
         "roman": "Hamesha apni khata doosron par thopna ulta chor kotwaal ko daante jaisa hai.",
         "english": "Always shifting your fault onto others is like the guilty blaming the innocent."
       }
-    ]
+    ],
+    "urdu": "الٹا چور کوتوال کو ڈانٹے"
   },
   {
     "id": 254,
@@ -5077,7 +5330,8 @@
         "roman": "Usne meri ehsaan-faraamoshi ki, magar maine socha neki kar darya mein daal.",
         "english": "He was ungrateful to me, but I thought to myself: do good and forget about it."
       }
-    ]
+    ],
+    "urdu": "نیکی کر دریا میں ڈال"
   },
   {
     "id": 255,
@@ -5097,7 +5351,8 @@
         "roman": "Sachai sab jaante hain, haath kangan ko aarsi kya, mazeed daleel ki zaroorat nahi.",
         "english": "Everyone knows the truth; the obvious needs no proof and no further argument is needed."
       }
-    ]
+    ],
+    "urdu": "ہاتھ کنگن کو آرسی کیا"
   },
   {
     "id": 256,
@@ -5117,7 +5372,8 @@
         "roman": "Hum hamesha yahi sikhate hain ke jitni chaadar dekho utne paaon phailaao.",
         "english": "We always teach that one should only spend within one's financial capacity."
       }
-    ]
+    ],
+    "urdu": "جتنی چادر دیکھو اتنے پاؤں پھیلاؤ"
   },
   {
     "id": 257,
@@ -5137,7 +5393,8 @@
         "roman": "Aadhi raat ko wahan jaana aa bail mujhe maar jaisa faisla hai.",
         "english": "Going there in the middle of the night is an invitation to trouble."
       }
-    ]
+    ],
+    "urdu": "آ بیل مجھے مار"
   },
   {
     "id": 258,
@@ -5157,7 +5414,8 @@
         "roman": "Uske daawon par dhiyaan mat do, thotha chana baaje ghana hi hota hai.",
         "english": "Pay no heed to his grand claims; empty vessels always make the most noise."
       }
-    ]
+    ],
+    "urdu": "تھوتھا چنا باجے گھنا"
   },
   {
     "id": 259,
@@ -5177,7 +5435,8 @@
         "roman": "Main ab dastaawezaat do baar parhta hoon, doodh ka jala chhaachh bhi phoonk phoonk kar peeta hai.",
         "english": "I check the papers twice now; a burnt child dreads the fire."
       }
-    ]
+    ],
+    "urdu": "دودھ کا جلا چھاچھ بھی پھونک پھونک کر پیتا ہے"
   },
   {
     "id": 260,
@@ -5197,7 +5456,8 @@
         "roman": "Har maamle mein dakhil hona aur maan na maan main tera mehmaan banna uski aadat hai.",
         "english": "Meddling in every matter and being an uninvited nuisance is his habit."
       }
-    ]
+    ],
+    "urdu": "مان نہ مان میں تیرا مہمان"
   },
   {
     "id": 261,
@@ -5217,7 +5477,8 @@
         "roman": "Hawaai qile banaana chhoro aur haqeeqat ka saamna karo.",
         "english": "Stop daydreaming unrealistic goals and face reality."
       }
-    ]
+    ],
+    "urdu": "ہوائی قلعے بنانا"
   },
   {
     "id": 262,
@@ -5237,7 +5498,8 @@
         "roman": "Mahino ki mehnat ka itna kam nateeja, bas khoda pahaar nikla chooha.",
         "english": "Such a trivial result from months of work, truly a mountain giving birth to a mouse."
       }
-    ]
+    ],
+    "urdu": "کھودا پہاڑ نکلا چوہا"
   },
   {
     "id": 263,
@@ -5257,7 +5519,8 @@
         "roman": "Tum meri aankhon mein dhool jhonkne ki koshish mat karo.",
         "english": "Don't try to pull the wool over my eyes."
       }
-    ]
+    ],
+    "urdu": "آنکھوں میں دھول جھونکنا"
   },
   {
     "id": 264,
@@ -5277,7 +5540,8 @@
         "roman": "Ustaad ji naraazgi mein aape se baahar ho gaye.",
         "english": "The teacher lost his temper in extreme anger."
       }
-    ]
+    ],
+    "urdu": "آپے سے باہر ہونا"
   },
   {
     "id": 265,
@@ -5297,7 +5561,8 @@
         "roman": "Nateeja dekh kar uske paaon tale zameen nikal gayi.",
         "english": "Seeing the shocking result, he felt the earth drop from beneath his feet."
       }
-    ]
+    ],
+    "urdu": "پاؤں تلے زمین نکل جانا"
   },
   {
     "id": 266,
@@ -5317,7 +5582,8 @@
         "roman": "Ghar waalon ne uski talaash mein zameen aasmaan ek kar diya.",
         "english": "The family left no stone unturned in their search for him."
       }
-    ]
+    ],
+    "urdu": "زمین آسمان ایک کرنا"
   },
   {
     "id": 267,
@@ -5337,7 +5603,8 @@
         "roman": "Woh itna ziddi hai ke koi kuch bhi kahe, tas se mas nahi hota.",
         "english": "He is so stubborn that whatever anyone says, he refuses to move."
       }
-    ]
+    ],
+    "urdu": "ٹس سے مس نہ ہونا"
   },
   {
     "id": 268,
@@ -5357,7 +5624,8 @@
         "roman": "Sulah ke baad gare murde ukhaarne ka koi faaida nahi.",
         "english": "There is no point in digging up the past after making peace."
       }
-    ]
+    ],
+    "urdu": "گڑے مردے اکھاڑنا"
   },
   {
     "id": 269,
@@ -5377,7 +5645,8 @@
         "roman": "Kripya bekaar behas karke khushi ke rang mein bhang mat daalo.",
         "english": "Please do not ruin our joyous mood with pointless arguments."
       }
-    ]
+    ],
+    "urdu": "رنگ میں بھنگ ڈالنا"
   },
   {
     "id": 270,
@@ -5397,7 +5666,8 @@
         "roman": "Aise dukh bhare haalaat mein kisi ka bhi kaleja munh ko aa jaaye.",
         "english": "Under such sorrowful circumstances, anyone would feel profound anguish."
       }
-    ]
+    ],
+    "urdu": "کلیجہ منہ کو آنا"
   },
   {
     "id": 271,
@@ -5417,7 +5687,8 @@
         "roman": "Dil par patthar rakh kar faisla karo, jazbaat se nahi.",
         "english": "Steel yourself and take the decision, not with mere emotions."
       }
-    ]
+    ],
+    "urdu": "دل پر پتھر رکھنا"
   },
   {
     "id": 272,
@@ -5437,7 +5708,8 @@
         "roman": "Der mat karo warna aakhir mein haath malte reh jaana parega.",
         "english": "Do not delay, or you will end up kicking yourself later."
       }
-    ]
+    ],
+    "urdu": "ہاتھ ملتے رہ جانا"
   },
   {
     "id": 273,
@@ -5457,7 +5729,8 @@
         "roman": "Ghaflat ne poore mansoobay ko mitti mein mila diya.",
         "english": "Negligence reduced the entire project to ruins."
       }
-    ]
+    ],
+    "urdu": "مٹی میں ملانا"
   },
   {
     "id": 274,
@@ -5477,7 +5750,8 @@
         "roman": "Usne tumhari tareef sirf apna ullu seedha karne ke liye ki thi.",
         "english": "He flattered you solely to serve his own purpose."
       }
-    ]
+    ],
+    "urdu": "اپنا الو سیدھا کرنا"
   },
   {
     "id": 275,
@@ -5497,7 +5771,8 @@
         "roman": "Tum hamesha baat ka batangar kyon banaate ho?",
         "english": "Why do you always make a mountain out of a molehill?"
       }
-    ]
+    ],
+    "urdu": "بات کا بتنگڑ بنانا"
   },
   {
     "id": 276,
@@ -5517,7 +5792,8 @@
         "roman": "Puraani deewar raat mein gir gayi magar mohallay walon ko kaanon kaan khabar na hui.",
         "english": "The old wall collapsed at night, but the neighbors had no clue at all."
       }
-    ]
+    ],
+    "urdu": "کانوں کان خبر نہ ہونا"
   },
   {
     "id": 277,
@@ -5537,7 +5813,8 @@
         "roman": "Sirf lakeer ka faqeer ban kar tum naye masail hal nahi kar sakte.",
         "english": "You cannot solve new problems merely by sticking blindly to routine."
       }
-    ]
+    ],
+    "urdu": "لکیر کا فقیر"
   },
   {
     "id": 278,
@@ -5557,7 +5834,8 @@
         "roman": "Jab tak kaam khatam na ho, hamara boss haath dho kar peechhe para rehta hai.",
         "english": "Until the work is done, our boss stays relentlessly on our backs."
       }
-    ]
+    ],
+    "urdu": "ہاتھ دھو کر پیچھے پڑنا"
   },
   {
     "id": 279,
@@ -5577,7 +5855,8 @@
         "roman": "Naye karobaar mein qadam rakhte hi usay aate daal ka bhaao maaloom ho gaya.",
         "english": "As soon as he stepped into the new business, he learned the harsh realities."
       }
-    ]
+    ],
+    "urdu": "آٹے دال کا بھاؤ معلوم ہونا"
   },
   {
     "id": 280,
@@ -5597,7 +5876,8 @@
         "roman": "Tajassus insaan ko nayi cheezein daryaaft karne par majboor karta hai.",
         "english": "Curiosity compels a person to discover new things."
       }
-    ]
+    ],
+    "urdu": "تجسس"
   },
   {
     "id": 281,
@@ -5617,7 +5897,8 @@
         "roman": "Us ne bohot ishtiyaaq ke sath nayi kitaab parhna shuru ki.",
         "english": "She began reading the new book with immense eagerness."
       }
-    ]
+    ],
+    "urdu": "اشتیاق"
   },
   {
     "id": 282,
@@ -5637,7 +5918,8 @@
         "roman": "Pardes se wapsi par walidain se milne ki betaabi dekhne laaiq thi.",
         "english": "His impatience to meet his parents upon returning from abroad was worth seeing."
       }
-    ]
+    ],
+    "urdu": "بے تابی"
   },
   {
     "id": 283,
@@ -5657,7 +5939,8 @@
         "roman": "Manzil tak pohnchnay ke liye dil mein justuju ka jazba zaroori hai.",
         "english": "To reach the destination, the spirit of quest in one's heart is essential."
       }
-    ]
+    ],
+    "urdu": "جستجو"
   },
   {
     "id": 284,
@@ -5677,7 +5960,8 @@
         "roman": "Ikhtilaaf-e-raaye ko tahammul ke sath sunna achhay shehri ki nishaani hai.",
         "english": "Listening to differing opinions with forbearance is the sign of a good citizen."
       }
-    ]
+    ],
+    "urdu": "تحمل"
   },
   {
     "id": 285,
@@ -5697,7 +5981,8 @@
         "roman": "Meri bardaasht ki bhi ek hadd hai, jo ab khatam ho chuki hai.",
         "english": "My endurance also has a limit, which has now ended."
       }
-    ]
+    ],
+    "urdu": "برداشت"
   },
   {
     "id": 286,
@@ -5717,7 +6002,8 @@
         "roman": "Us ne har mehmaan ka faraakhdili ke sath shandar khair-maqdam kiya.",
         "english": "He welcomed every guest warmly with immense generosity."
       }
-    ]
+    ],
+    "urdu": "فراخدلی"
   },
   {
     "id": 287,
@@ -5737,7 +6023,8 @@
         "roman": "Us ki kanjoosi ki wajah se koi dost us ke sath nahi rehta.",
         "english": "Because of his stinginess, no friend stays with him."
       }
-    ]
+    ],
+    "urdu": "کنجوسی"
   },
   {
     "id": 288,
@@ -5757,7 +6044,8 @@
         "roman": "Us ke dil mein mere khilaf hasad kahan se aaya, mujhe nahi pata.",
         "english": "I don't know where the envy against me in his heart came from."
       }
-    ]
+    ],
+    "urdu": "حسد"
   },
   {
     "id": 289,
@@ -5777,7 +6065,8 @@
         "roman": "Tumhari khush-qismati par to koi bhi rashk kar sakta hai.",
         "english": "Anyone could feel an admiring envy toward your good fortune."
       }
-    ]
+    ],
+    "urdu": "رشک"
   },
   {
     "id": 290,
@@ -5797,7 +6086,8 @@
         "roman": "Ghalat faisla lene par insaan ko saari zindagi pachhtaawa rehta hai.",
         "english": "A person feels regret for a lifetime after making a wrong decision."
       }
-    ]
+    ],
+    "urdu": "پچھتاوا"
   },
   {
     "id": 291,
@@ -5817,7 +6107,8 @@
         "roman": "Ghalati ke baad sachhi nadaamat hi insaan ko behtar banati hai.",
         "english": "True remorse after a mistake is what makes a person better."
       }
-    ]
+    ],
+    "urdu": "ندامت"
   },
   {
     "id": 292,
@@ -5837,7 +6128,8 @@
         "roman": "Mujhe sharmindagi se bachane ke liye us ne saara ilzaam apne sar le liya.",
         "english": "To save me from embarrassment, he took all the blame upon himself."
       }
-    ]
+    ],
+    "urdu": "شرمندگی"
   },
   {
     "id": 293,
@@ -5857,7 +6149,8 @@
         "roman": "Stage par aate hi us ki saari jhijhak foran door ho gayi.",
         "english": "As soon as she reached the stage, all her hesitation vanished."
       }
-    ]
+    ],
+    "urdu": "جھجک"
   },
   {
     "id": 294,
@@ -5877,7 +6170,8 @@
         "roman": "Ghar mein band reh kar bache uktaahat ka shikaar ho gaye hain.",
         "english": "Staying locked inside the house, the children have fallen prey to boredom."
       }
-    ]
+    ],
+    "urdu": "اکتاہٹ"
   },
   {
     "id": 295,
@@ -5897,7 +6191,8 @@
         "roman": "Zindagi ke is ahem dorahay par khara ho kar main ajeeb uljhan mein hoon.",
         "english": "Standing at this important crossroad of life, I am in a strange tangle."
       }
-    ]
+    ],
+    "urdu": "الجھن"
   },
   {
     "id": 296,
@@ -5917,7 +6212,8 @@
         "roman": "Chhoti si ghalat fehmi ne itne saalon purani dosti khatam kar di.",
         "english": "A minor misunderstanding ended a friendship that had lasted so many years."
       }
-    ]
+    ],
+    "urdu": "غلط فہمی"
   },
   {
     "id": 297,
@@ -5937,7 +6233,8 @@
         "roman": "Us ke zehan mein mere khilaf badgumaani kis ne daali hai?",
         "english": "Who put this suspicion against me into his mind?"
       }
-    ]
+    ],
+    "urdu": "بدگمانی"
   },
   {
     "id": 298,
@@ -5957,7 +6254,8 @@
         "roman": "Bina mehnat ke kamyabi mil jayegi, yeh sirf ek khush fehmi hai.",
         "english": "That success will come without effort is purely wishful thinking."
       }
-    ]
+    ],
+    "urdu": "خوش فہمی"
   },
   {
     "id": 299,
@@ -5977,7 +6275,8 @@
         "roman": "Us ki laaparwaai ki wajah se company ko bhari nuqsaan uthana para.",
         "english": "Due to his carelessness, the company had to suffer a heavy loss."
       }
-    ]
+    ],
+    "urdu": "لاپروائی"
   },
   {
     "id": 300,
@@ -5997,7 +6296,8 @@
         "roman": "Ilaaj se behtar ehtiyaat hai, is liye apni sehat ka khayal rakhein.",
         "english": "Caution is better than cure, so take care of your health."
       }
-    ]
+    ],
+    "urdu": "احتیاط"
   },
   {
     "id": 301,
@@ -6017,7 +6317,8 @@
         "roman": "Har mushkil baat ko saleeqe se kehna us ka hunar hai.",
         "english": "Saying every difficult thing with refinement is his talent."
       }
-    ]
+    ],
+    "urdu": "سلیقہ"
   },
   {
     "id": 302,
@@ -6037,7 +6338,8 @@
         "roman": "Achhi tameez hi insaan ki asal pehchan hoti hai.",
         "english": "Good manners are a person's true identity."
       }
-    ]
+    ],
+    "urdu": "تمیز"
   },
   {
     "id": 303,
@@ -6057,7 +6359,8 @@
         "roman": "Gusse mein aakar badtameezi karna kamzori ki nishani hai.",
         "english": "Acting rudely out of anger is a sign of weakness."
       }
-    ]
+    ],
+    "urdu": "بدتمیزی"
   },
   {
     "id": 304,
@@ -6077,7 +6380,8 @@
         "roman": "Us ne meri murawwat ka ghalat faayda uthaya.",
         "english": "He took unfair advantage of my courteous nature."
       }
-    ]
+    ],
+    "urdu": "مروت"
   },
   {
     "id": 305,
@@ -6097,7 +6401,8 @@
         "roman": "Kuch baton mein doosron ke jazbaat ka lihaaz rakhna zaroori hota hai.",
         "english": "In some matters, having regard for others' feelings is essential."
       }
-    ]
+    ],
+    "urdu": "لحاظ"
   },
   {
     "id": 306,
@@ -6117,7 +6422,8 @@
         "roman": "Chai peene ke liye itne takalluf ki kya zaroorat thi?",
         "english": "What was the need for so much formality just to have tea?"
       }
-    ]
+    ],
+    "urdu": "تکلف"
   },
   {
     "id": 307,
@@ -6137,7 +6443,8 @@
         "roman": "Hum dono mein aapas mein bohot betakallufi hai.",
         "english": "There is a great deal of informal ease between the two of us."
       }
-    ]
+    ],
+    "urdu": "بے تکلفی"
   },
   {
     "id": 308,
@@ -6157,7 +6464,8 @@
         "roman": "Koshish karein ke guftagu ke dauran kisi ka dil na dukhe.",
         "english": "Try to ensure that no one's feelings are hurt during the conversation."
       }
-    ]
+    ],
+    "urdu": "گفتگو"
   },
   {
     "id": 309,
@@ -6177,7 +6485,8 @@
         "roman": "Is baat par behes karne ka ab koi faayda nahi.",
         "english": "There is no point in arguing about this matter now."
       }
-    ]
+    ],
+    "urdu": "بحث"
   },
   {
     "id": 310,
@@ -6197,7 +6506,8 @@
         "roman": "Ghar mein roz ka jhagra bacchon par bura asar daalta hai.",
         "english": "Daily quarrels at home have a bad effect on children."
       }
-    ]
+    ],
+    "urdu": "جھگڑا"
   },
   {
     "id": 311,
@@ -6217,7 +6527,8 @@
         "roman": "Jang ke muqable mein sulah hamesha behtar rasta hai.",
         "english": "Reconciliation is always a better path compared to war."
       }
-    ]
+    ],
+    "urdu": "صلح"
   },
   {
     "id": 312,
@@ -6237,7 +6548,8 @@
         "roman": "Us ne tanz bhare lehje mein meri tareef ki.",
         "english": "He praised me in a sarcastic tone."
       }
-    ]
+    ],
+    "urdu": "طنز"
   },
   {
     "id": 313,
@@ -6257,7 +6569,8 @@
         "roman": "Us ka haseen mizaah har mehfil ko zinda kar deta hai.",
         "english": "His delightful sense of humor enlivens every gathering."
       }
-    ]
+    ],
+    "urdu": "مزاح"
   },
   {
     "id": 314,
@@ -6277,7 +6590,8 @@
         "roman": "Har baat ko lateefa samajh kar mat udaya karo.",
         "english": "Do not dismiss everything as if it were a joke."
       }
-    ]
+    ],
+    "urdu": "لطیفہ"
   },
   {
     "id": 315,
@@ -6297,7 +6611,8 @@
         "roman": "Kisi ki zaati zindagi ke baare mein afwaah phelana gunaah hai.",
         "english": "Spreading a rumor about someone's personal life is a sin."
       }
-    ]
+    ],
+    "urdu": "افواہ"
   },
   {
     "id": 316,
@@ -6317,7 +6632,8 @@
         "roman": "Mehfil mein bas us ki qabiliyat ka hi charcha tha.",
         "english": "In the gathering, there was only buzz about his competence."
       }
-    ]
+    ],
+    "urdu": "چرچا"
   },
   {
     "id": 317,
@@ -6337,7 +6653,8 @@
         "roman": "Daulat aur shohrat hamesha qayam rehne wali cheezein nahi hain.",
         "english": "Wealth and fame are not things that last forever."
       }
-    ]
+    ],
+    "urdu": "شہرت"
   },
   {
     "id": 318,
@@ -6357,7 +6674,8 @@
         "roman": "Bure kaamon ka anjaam hamesha badnaami hi hota hai.",
         "english": "The outcome of evil deeds is always infamy."
       }
-    ]
+    ],
+    "urdu": "بدنامی"
   },
   {
     "id": 319,
@@ -6377,7 +6695,8 @@
         "roman": "Ek gumnaam shakhs ne hospital ko bohot badi raqam di.",
         "english": "An anonymous person donated a huge amount of money to the hospital."
       }
-    ]
+    ],
+    "urdu": "گمنام"
   },
   {
     "id": 320,
@@ -6397,7 +6716,8 @@
         "roman": "Us ne wiraasat ki taqseem par koi aitraaz nahi kiya.",
         "english": "He did not raise any objection to the division of the inheritance."
       }
-    ]
+    ],
+    "urdu": "وراثت"
   },
   {
     "id": 321,
@@ -6417,7 +6737,8 @@
         "roman": "Jaaedaad ke jhagron ne poore khandaan ko tabah kar diya.",
         "english": "Disputes over property destroyed the entire family."
       }
-    ]
+    ],
+    "urdu": "جائیداد"
   },
   {
     "id": 322,
@@ -6437,7 +6758,8 @@
         "roman": "Woh saalon se doosron ke qarz ke bojh tale daba hua hai.",
         "english": "For years, he has been weighed down under the burden of debt."
       }
-    ]
+    ],
+    "urdu": "قرض"
   },
   {
     "id": 323,
@@ -6457,7 +6779,8 @@
         "roman": "Mushkil waqt ke liye har mahine bachat kiya karein.",
         "english": "Do save money every month for difficult times."
       }
-    ]
+    ],
+    "urdu": "بچت"
   },
   {
     "id": 324,
@@ -6477,7 +6800,8 @@
         "roman": "Us ki fuzool kharchi ki aadat ne use qarz mein mubtila kar diya.",
         "english": "His habit of extravagance plunged him into debt."
       }
-    ]
+    ],
+    "urdu": "فضول خرچی"
   },
   {
     "id": 325,
@@ -6497,7 +6821,8 @@
         "roman": "Us ne hamesha kifaayat ke saath kharch karne ki taleem di.",
         "english": "He always taught to spend with thrift."
       }
-    ]
+    ],
+    "urdu": "کفایت"
   },
   {
     "id": 326,
@@ -6517,7 +6842,8 @@
         "roman": "Hamara mansooba tha ke subah savere safar shuru karein.",
         "english": "Our plan was to begin the journey early in the morning."
       }
-    ]
+    ],
+    "urdu": "منصوبہ"
   },
   {
     "id": 327,
@@ -6537,7 +6863,8 @@
         "roman": "Unhon ne saalon ki mehnat ke baad is fann mein mahaarat paayi.",
         "english": "They gained mastery in this art after years of hard work."
       }
-    ]
+    ],
+    "urdu": "مہارت"
   },
   {
     "id": 328,
@@ -6557,7 +6884,8 @@
         "roman": "Walidain ne uski tarbiyat mein koi kasar nahi chhori.",
         "english": "The parents left no stone unturned in his upbringing."
       }
-    ]
+    ],
+    "urdu": "تربیت"
   },
   {
     "id": 329,
@@ -6577,7 +6905,8 @@
         "roman": "Gaon ke khule mahol mein uski parwarish hui.",
         "english": "He was brought up in the open environment of the village."
       }
-    ]
+    ],
+    "urdu": "پرورش"
   },
   {
     "id": 330,
@@ -6597,7 +6926,8 @@
         "roman": "Har mushkil waqt mein mere doston ne meri hausla afzaai ki.",
         "english": "In every difficult time, my friends encouraged me."
       }
-    ]
+    ],
+    "urdu": "حوصلہ افزائی"
   },
   {
     "id": 331,
@@ -6617,7 +6947,8 @@
         "roman": "Zindagi ke imtehaan mein maayoosi ko qareeb na aane dein.",
         "english": "Do not let disappointment come near you in life's tests."
       }
-    ]
+    ],
+    "urdu": "مایوسی"
   },
   {
     "id": 332,
@@ -6637,7 +6968,8 @@
         "roman": "Ghairon se achhay bartaav ki tawaqqo mat rakhein.",
         "english": "Do not keep expectations of good treatment from strangers."
       }
-    ]
+    ],
+    "urdu": "توقع"
   },
   {
     "id": 333,
@@ -6657,7 +6989,8 @@
         "roman": "Khatre ka koi andesha nahi, sab theek ho jayega.",
         "english": "There is no apprehension of danger; everything will be fine."
       }
-    ]
+    ],
+    "urdu": "اندیشہ"
   },
   {
     "id": 334,
@@ -6677,7 +7010,8 @@
         "roman": "Uski khamoshi se mera gumaan yaqeen mein badal gaya.",
         "english": "His silence turned my suspicion into certainty."
       }
-    ]
+    ],
+    "urdu": "گمان"
   },
   {
     "id": 335,
@@ -6697,7 +7031,8 @@
         "roman": "Yeh khabar sun kar pehle to usay yaqeen hi na aaya.",
         "english": "Hearing this news, he could not believe it at first."
       }
-    ]
+    ],
+    "urdu": "یقین"
   },
   {
     "id": 336,
@@ -6717,7 +7052,8 @@
         "roman": "Is baat mein kisi ko koi shak nahi hona chahiye.",
         "english": "No one should have any doubt about this matter."
       }
-    ]
+    ],
+    "urdu": "شک"
   },
   {
     "id": 337,
@@ -6737,7 +7073,8 @@
         "roman": "Bemaari ka wehem insaan ko sach mein bemaar kar deta hai.",
         "english": "The paranoia of illness actually makes a person sick."
       }
-    ]
+    ],
+    "urdu": "وہم"
   },
   {
     "id": 338,
@@ -6757,7 +7094,8 @@
         "roman": "Usne har haal mein apna maqsad haasil karne ka azm dohrhaya.",
         "english": "He reiterated his resolve to achieve his goal at all costs."
       }
-    ]
+    ],
+    "urdu": "عزم"
   },
   {
     "id": 339,
@@ -6777,7 +7115,8 @@
         "roman": "Haq ki raah mein istiqaamat se qadam jamaye rakhein.",
         "english": "Remain steadfast in the path of truth."
       }
-    ]
+    ],
+    "urdu": "استقامت"
   },
   {
     "id": 340,
@@ -6797,7 +7136,8 @@
         "roman": "Dilon ko mohabbat se fateh kiya ja sakta hai.",
         "english": "Hearts can be conquered with love."
       }
-    ]
+    ],
+    "urdu": "فتح"
   },
   {
     "id": 341,
@@ -6817,7 +7157,8 @@
         "roman": "Dushman ko maidan-e-jang mein ibratnaak shikast hui.",
         "english": "The enemy suffered an exemplary defeat on the battlefield."
       }
-    ]
+    ],
+    "urdu": "شکست"
   },
   {
     "id": 342,
@@ -6837,7 +7178,8 @@
         "roman": "Bemaari ke khilaf jism ki quwwat-e-muzaahimat zaroori hai.",
         "english": "The body's resistance power is essential against disease."
       }
-    ]
+    ],
+    "urdu": "مزاحمت"
   },
   {
     "id": 343,
@@ -6857,7 +7199,8 @@
         "roman": "Muqablay ke baghair paspaai buzdili ki nishaani hai.",
         "english": "Retreating without a fight is a sign of cowardice."
       }
-    ]
+    ],
+    "urdu": "پسپائی"
   },
   {
     "id": 344,
@@ -6877,7 +7220,8 @@
         "roman": "Mushkilaat se faraar masle ka hal nahi hota.",
         "english": "Escape from difficulties is not the solution to problems."
       }
-    ]
+    ],
+    "urdu": "فرار"
   },
   {
     "id": 345,
@@ -6897,7 +7241,8 @@
         "roman": "Khuda ke siwa koi mehfooz panaah nahi.",
         "english": "There is no safe sanctuary except God."
       }
-    ]
+    ],
+    "urdu": "پناہ"
   },
   {
     "id": 346,
@@ -6917,7 +7262,8 @@
         "roman": "Usne watan ki hifazat ke liye apni jaan qurban kar di.",
         "english": "He sacrificed his life for the defense of the homeland."
       }
-    ]
+    ],
+    "urdu": "وطن"
   },
   {
     "id": 347,
@@ -6937,7 +7283,8 @@
         "roman": "Pardes ki zindagi asaan nahi hoti.",
         "english": "Life in a foreign land is not easy."
       }
-    ]
+    ],
+    "urdu": "پردیس"
   },
   {
     "id": 348,
@@ -6957,7 +7304,8 @@
         "roman": "Pehli dafa milne par woh bilkul ajnabi sa laga.",
         "english": "Upon meeting for the first time, he seemed quite like a stranger."
       }
-    ]
+    ],
+    "urdu": "اجنبی"
   },
   {
     "id": 349,
@@ -6977,7 +7325,8 @@
         "roman": "Main unke purane khandaan se qadray aashna hoon.",
         "english": "I am somewhat acquainted with their old family."
       }
-    ]
+    ],
+    "urdu": "آشنا"
   },
   {
     "id": 350,
@@ -6997,7 +7346,8 @@
         "roman": "Uski mukhlisana rifaaqat ne mera hosla barhaye rakha.",
         "english": "His sincere companionship kept my spirits high."
       }
-    ]
+    ],
+    "urdu": "رفاقت"
   },
   {
     "id": 351,
@@ -7017,7 +7367,8 @@
         "roman": "Kamyabi ka mehnat se seedha taalluq hota hai.",
         "english": "Success has a direct connection with hard work."
       }
-    ]
+    ],
+    "urdu": "تعلق"
   },
   {
     "id": 352,
@@ -7037,7 +7388,8 @@
         "roman": "Thora faasla rakh kar baithiye taake sab ko jagah mil sake.",
         "english": "Please sit keeping some distance so that everyone can have space."
       }
-    ]
+    ],
+    "urdu": "فاصلہ"
   },
   {
     "id": 353,
@@ -7057,7 +7409,8 @@
         "roman": "Shaayari mein qurbat aur doori ka zikr aksar milta hai.",
         "english": "In poetry, the mention of closeness and distance is often found."
       }
-    ]
+    ],
+    "urdu": "قربت"
   },
   {
     "id": 354,
@@ -7077,7 +7430,8 @@
         "roman": "Dada ji ka is purane makan se shadeed lagaao tha.",
         "english": "Grandfather had an intense attachment to this old house."
       }
-    ]
+    ],
+    "urdu": "لگاؤ"
   },
   {
     "id": 355,
@@ -7097,7 +7451,8 @@
         "roman": "Roz roz ki bahas se ab sab ko bezaari hone lagi hai.",
         "english": "Everyone has now started feeling weary of the daily arguments."
       }
-    ]
+    ],
+    "urdu": "بیزاری"
   },
   {
     "id": 356,
@@ -7117,7 +7472,8 @@
         "roman": "Agar aap ki dilchaspi na ho to hum doosra mauzoo chun sakte hain.",
         "english": "If you are not interested, we can choose another topic."
       }
-    ]
+    ],
+    "urdu": "دلچسپی"
   },
   {
     "id": 357,
@@ -7137,7 +7493,8 @@
         "roman": "Koi accha mashghala insaan ko manfi soch se door rakhta hai.",
         "english": "A good hobby keeps a person away from negative thinking."
       }
-    ]
+    ],
+    "urdu": "مشغلہ"
   },
   {
     "id": 358,
@@ -7157,7 +7514,8 @@
         "roman": "Bachon ki har farmaaish poori karna theek nahi hota.",
         "english": "Fulfilling every child's request is not a good thing."
       }
-    ]
+    ],
+    "urdu": "فرمائش"
   },
   {
     "id": 359,
@@ -7177,7 +7535,8 @@
         "roman": "Aap ke saamne ek mukhtasar guzaarish pesh karni thi.",
         "english": "I wanted to present a brief humble request before you."
       }
-    ]
+    ],
+    "urdu": "گزارش"
   },
   {
     "id": 360,
@@ -7197,7 +7556,8 @@
         "roman": "Ziyada israar karna kisi ko uljhan mein daal sakta hai.",
         "english": "Insisting too much can put someone in an awkward position."
       }
-    ]
+    ],
+    "urdu": "اصرار"
   },
   {
     "id": 361,
@@ -7217,7 +7577,8 @@
         "roman": "Un ke inkaar ke baad hum ne doosra rasta apnaya.",
         "english": "After their refusal, we adopted another path."
       }
-    ]
+    ],
+    "urdu": "انکار"
   },
   {
     "id": 362,
@@ -7237,7 +7598,8 @@
         "roman": "Ghalti ka iqraar hi behtari ki taraf pehla qadam hai.",
         "english": "Admitting a mistake is the very first step toward improvement."
       }
-    ]
+    ],
+    "urdu": "اقرار"
   },
   {
     "id": 363,
@@ -7257,7 +7619,8 @@
         "roman": "Logon ne ehtijaaj ke zariye apni naraazgi ka izhaar kiya.",
         "english": "People expressed their displeasure through protests."
       }
-    ]
+    ],
+    "urdu": "اظہار"
   },
   {
     "id": 364,
@@ -7277,7 +7640,8 @@
         "roman": "Is kitaab ka khulaasa agle safhe par likha hai.",
         "english": "The summary of this book is written on the next page."
       }
-    ]
+    ],
+    "urdu": "خلاصہ"
   },
   {
     "id": 365,
@@ -7297,7 +7661,8 @@
         "roman": "Waqt ki kami ki wajah se hum tafseel mein nahi ja sakte.",
         "english": "Due to lack of time, we cannot go into detail."
       }
-    ]
+    ],
+    "urdu": "تفصیل"
   },
   {
     "id": 366,
@@ -7317,7 +7682,8 @@
         "roman": "Tareekh mein aisi behisaab misaal milti hain.",
         "english": "Innumerable examples like this are found in history."
       }
-    ]
+    ],
+    "urdu": "مثال"
   },
   {
     "id": 367,
@@ -7337,7 +7703,8 @@
         "roman": "Jaldbaazi ka nateeja nuqsaan ke siva kuch nahi hota.",
         "english": "The result of haste is nothing but loss."
       }
-    ]
+    ],
+    "urdu": "نتیجہ"
   },
   {
     "id": 368,
@@ -7357,7 +7724,8 @@
         "roman": "Har baat ke peechay koi na koi wajah zaroor hoti hai.",
         "english": "Behind every matter, there is certainly some reason."
       }
-    ]
+    ],
+    "urdu": "وجہ"
   },
   {
     "id": 369,
@@ -7377,7 +7745,8 @@
         "roman": "Mausam ki tabdeeli ka sehat par asar parta hai.",
         "english": "A change in weather has an effect on health."
       }
-    ]
+    ],
+    "urdu": "اثر"
   },
   {
     "id": 370,
@@ -7397,7 +7766,8 @@
         "roman": "Market mein ab eco-friendly cheezon ka rujhaan aam ho chuka hai.",
         "english": "The trend of eco-friendly products has now become common in the market."
       }
-    ]
+    ],
+    "urdu": "رجحان"
   },
   {
     "id": 371,
@@ -7417,7 +7787,8 @@
         "roman": "Maamool se hat kar kaam karna aksar mushkil hota hai.",
         "english": "Working outside of routine is often difficult."
       }
-    ]
+    ],
+    "urdu": "معمول"
   },
   {
     "id": 372,
@@ -7437,7 +7808,8 @@
         "roman": "Hum ittefaaqan usi train ke dibbay mein sawaar hue.",
         "english": "We boarded the very same train compartment by chance."
       }
-    ]
+    ],
+    "urdu": "اتفاقاً"
   },
   {
     "id": 373,
@@ -7457,7 +7829,8 @@
         "roman": "Aap ghaaliban un ki baat ka maqsad nahi samjhe.",
         "english": "You probably did not understand the purpose of his statement."
       }
-    ]
+    ],
+    "urdu": "غالباً"
   },
   {
     "id": 374,
@@ -7477,7 +7850,8 @@
         "roman": "Gaadi bilaawajah beech raste mein band ho gayi.",
         "english": "The car stalled right in the middle of the road for no reason."
       }
-    ]
+    ],
+    "urdu": "بلاوجہ"
   },
   {
     "id": 375,
@@ -7497,7 +7871,8 @@
         "roman": "Zabardasti banaye gaye faislay zyada der qaaim nahi rehte.",
         "english": "Decisions made by force do not last very long."
       }
-    ]
+    ],
+    "urdu": "زبردستی"
   },
   {
     "id": 376,
@@ -7517,7 +7892,8 @@
         "roman": "Is naagahaani khabar ne pure shehar ko hila kar rakh diya.",
         "english": "This sudden news shook the entire city."
       }
-    ]
+    ],
+    "urdu": "ناگہانی"
   },
   {
     "id": 377,
@@ -7537,7 +7913,8 @@
         "roman": "Is purasraar waqiye ki haqeeqat abhi tak kisi ko maloom nahi.",
         "english": "No one yet knows the truth behind this mysterious incident."
       }
-    ]
+    ],
+    "urdu": "پراسرار"
   },
   {
     "id": 378,
@@ -7557,7 +7934,8 @@
         "roman": "Yeh imarat apni dilkash tarz-e-tameer ki wajah se mashhoor hai.",
         "english": "This building is famous for its charming architecture."
       }
-    ]
+    ],
+    "urdu": "دلکش"
   },
   {
     "id": 379,
@@ -7577,7 +7955,8 @@
         "roman": "Is kitaab ki kahani aakhri safhe tak dilchasp rehti hai.",
         "english": "The story of this book remains interesting until the very last page."
       }
-    ]
+    ],
+    "urdu": "دلچسپ"
   },
   {
     "id": 380,
@@ -7597,7 +7976,8 @@
         "roman": "Baar baar aik hi ghalti dekh kar ustaad bezaar ho gaye.",
         "english": "Seeing the same mistake repeatedly, the teacher got fed up."
       }
-    ]
+    ],
+    "urdu": "بیزار"
   },
   {
     "id": 381,
@@ -7617,7 +7997,8 @@
         "roman": "Wo us zaalim shakhs ke aage khud ko bebas paata tha.",
         "english": "He found himself helpless before that cruel person."
       }
-    ]
+    ],
+    "urdu": "بے بس"
   },
   {
     "id": 382,
@@ -7637,7 +8018,8 @@
         "roman": "Kharab mausam ki wajah se hum safar multawi karne par majboor thay.",
         "english": "Due to bad weather, we were forced to postpone the journey."
       }
-    ]
+    ],
+    "urdu": "مجبور"
   },
   {
     "id": 383,
@@ -7657,7 +8039,8 @@
         "roman": "Maghroor logon ka sar aakhir-kaar neecha hi hota hai.",
         "english": "Haughty people ultimately face humiliation."
       }
-    ]
+    ],
+    "urdu": "مغرور"
   },
   {
     "id": 384,
@@ -7677,7 +8060,8 @@
         "roman": "Humare ustaad nihayat farz shanaas aur mehnati insaan hain.",
         "english": "Our teacher is an extremely dutiful and hardworking person."
       }
-    ]
+    ],
+    "urdu": "فرض شناس"
   },
   {
     "id": 385,
@@ -7697,7 +8081,8 @@
         "roman": "Log use nikamma samajhte thay magar us ne sab ko hairan kar diya.",
         "english": "People thought he was idle, but he surprised everyone."
       }
-    ]
+    ],
+    "urdu": "نکما"
   },
   {
     "id": 386,
@@ -7717,7 +8102,8 @@
         "roman": "Chaalaak dushman hamesha peeth peeche waar karta hai.",
         "english": "A cunning enemy always attacks behind your back."
       }
-    ]
+    ],
+    "urdu": "چالاک"
   },
   {
     "id": 387,
@@ -7737,7 +8123,8 @@
         "roman": "Khatra dekhte hi chowkidaar fauran hoshiyaar ho gaya.",
         "english": "Seeing danger, the watchman immediately became alert."
       }
-    ]
+    ],
+    "urdu": "ہوشیار"
   },
   {
     "id": 388,
@@ -7757,7 +8144,8 @@
         "roman": "Woh aik baawaqaar shakhsiyat ke maalik hain jin ki sab izzat karte hain.",
         "english": "He possesses a dignified personality whom everyone respects."
       }
-    ]
+    ],
+    "urdu": "باوقار"
   },
   {
     "id": 389,
@@ -7777,6 +8165,7 @@
         "roman": "Kathin raston se guzar kar hi insaan apni manzil paata hai.",
         "english": "A person reaches their destination only after traversing arduous paths."
       }
-    ]
+    ],
+    "urdu": "کٹھن"
   }
 ]

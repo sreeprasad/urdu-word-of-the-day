@@ -25,6 +25,7 @@ function json(data, status = 200) {
 const publicWord = (w) => ({
   id: w.id,
   roman: w.roman,
+  urdu: w.urdu ?? null,
   english: w.english,
   category: w.category,
   sentences: w.sentences ?? [],
@@ -122,9 +123,10 @@ function dailyEmail(base, word, date, token) {
   return {
     subject: `${word.roman}: ${word.english}`,
     unsub,
-    text: `${word.roman}\n${word.english}\n\n${sentencesText}\n\nPractise earlier words: ${base}/\n\nUnsubscribe: ${unsub}`,
+    text: `${word.roman}${word.urdu ? ` (${word.urdu})` : ""}\n${word.english}\n\n${sentencesText}\n\nPractise earlier words: ${base}/\n\nUnsubscribe: ${unsub}`,
     html: `<div style="font-family:Georgia,serif;font-size:17px;line-height:1.6;color:#1c2b5e;max-width:560px">
       <p style="font-size:40px;line-height:1.2;font-weight:bold;margin:0 0 4px">${esc(word.roman)}</p>
+      ${word.urdu ? `<p lang="ur" dir="rtl" style="font-family:'Noto Nastaliq Urdu','Jameel Noori Nastaleeq',serif;font-size:30px;line-height:2;margin:0;text-align:left">${esc(word.urdu)}</p>` : ""}
       <p style="font-size:19px;margin:0 0 24px">${esc(word.english)}</p>
       ${sentencesHtml}
       <p style="margin:24px 0 0"><a href="${esc(base)}/" style="color:#1c2b5e">Practise earlier words on the site</a></p>

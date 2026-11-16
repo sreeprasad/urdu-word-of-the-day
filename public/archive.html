@@ -39,6 +39,7 @@
             <summary>
               ${row(`<p class="day">${esc(longDate(d.date))}</p>`)}
               ${row(`<p class="word small">${esc(d.word.roman)}</p>`)}
+              ${d.word.urdu ? row(`<p class="urdu small" lang="ur">${esc(d.word.urdu)}</p>`) : ""}
               ${row(`<p class="meaning">${esc(d.word.english)}</p>`)}
             </summary>
             ${gap}

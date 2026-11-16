@@ -1,4 +1,5 @@
 @font-face { font-family: "Rozha One"; src: url(/fonts/rozha-one-latin-400-normal.woff2) format("woff2"); font-weight: 400; font-display: swap; }
+@font-face { font-family: "Noto Nastaliq Urdu"; src: url(/fonts/noto-nastaliq-urdu-arabic-400-normal.woff2) format("woff2"); font-weight: 400; font-display: swap; unicode-range: U+0600-06FF, U+0750-077F, U+FB50-FDFF, U+FE70-FEFF; }
 @font-face { font-family: Hind; src: url(/fonts/hind-latin-400-normal.woff2) format("woff2"); font-weight: 400; font-display: swap; }
 @font-face { font-family: Hind; src: url(/fonts/hind-latin-500-normal.woff2) format("woff2"); font-weight: 500; font-display: swap; }
 @font-face { font-family: Hind; src: url(/fonts/hind-latin-600-normal.woff2) format("woff2"); font-weight: 600; font-display: swap; }
@@ -62,6 +63,15 @@ a { color: var(--ink); text-decoration-thickness: 1px; text-underline-offset: 4p
 }
 .word.small { font-size: 44px; line-height: calc(var(--line) * 2); }
 .meaning { font-size: 21px; }
+
+/* Urdu spelling in Nastaliq: it needs two ruled lines of height. */
+.urdu {
+  font: 400 42px/calc(var(--line) * 2) "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", serif;
+  direction: rtl;
+  text-align: left;
+  unicode-bidi: isolate;
+}
+.urdu.small { font-size: 26px; }
 
 .examples { list-style: none; padding: 0; }
 .examples li { margin-bottom: var(--line); }

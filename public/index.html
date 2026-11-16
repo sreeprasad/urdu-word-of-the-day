@@ -59,6 +59,7 @@
     function todaySection(word) {
       return `<section id="today">
         ${row(`<h1 class="word">${esc(word.roman)}</h1>`)}
+        ${word.urdu ? row(`<p class="urdu" lang="ur">${esc(word.urdu)}</p>`) : ""}
         ${row(`<p class="meaning">${esc(word.english)}</p>`)}
         ${gap}
         ${row(examples(word.sentences))}
@@ -71,6 +72,7 @@
       const head = `${gap}${gap}
         ${row(`<h2>Use this word in two sentences of your own</h2>`)}
         ${row(`<p class="word small">${esc(review.roman)}</p>`)}
+        ${review.urdu ? row(`<p class="urdu small" lang="ur">${esc(review.urdu)}</p>`) : ""}
         ${row(`<p class="meaning">${esc(review.english)}</p>`)}
         ${gap}`;
       if (practiced) {
